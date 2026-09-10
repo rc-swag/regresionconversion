@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:07:18 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:49:26 GMT",
+  "description": "<br>Original TestLodge ID: TC293 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335638574,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320166690,
+  "lastModifiedBy": "",
+  "id": "238",
+  "name": "change(mac): remove 'Always show OSK' option #12355 (TEST_OSK_REMEMBERS_SIZE_AND_LOCATION_AFTER_RESTART)",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "MAC"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Mac OS"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

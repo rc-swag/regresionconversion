@@ -1,0 +1,14 @@
+{
+  "pairs": 205,
+  "products": {
+    "Android": 39,
+    "Developer": 13,
+    "Gestures": 12,
+    "IOS": 15,
+    "Linux": 22,
+    "MAC": 28,
+    "Web": 29,
+    "Windows": 49
+  },
+  "warnings": []
+}

@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:08:52 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:50:46 GMT",
+  "description": "<br>Original TestLodge ID: TC176 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335732864,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320246226,
+  "lastModifiedBy": "",
+  "id": "275",
+  "name": "Test case for Baseline_Add_SIL_IPA (Touch / Hardware Platforms)",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Web"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Web"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

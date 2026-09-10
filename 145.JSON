@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Thu, 21 Aug 2025 15:29:36 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:45:07 GMT",
+  "description": "<p><br>Original TestLodge ID: TC279</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1755790176953,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319907724,
+  "lastModifiedBy": "",
+  "id": "145",
+  "name": "fix(android): Auto-mirror increment and decrement arrows for RTL support ? #12230",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Android"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Android"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

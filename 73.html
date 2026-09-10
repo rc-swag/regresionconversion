@@ -1,0 +1,21 @@
+Setup Steps:<br>
+    1. Run <sudo apt install keyman onboard-keyman> to install the latest Keyman in the system.<br>
+    2. EuroLatin (SIL) Keyboard should be installed and ready for testing.  <br>
+    3. Tamil99 Keyboard should be installed and ready for test.<br>
+Action Steps:<br>
+    1. Type ‘Keyman’ from launcher. <br>
+    2. Verify that the Keyman Configuration dialog box opens. <br>
+    3. Verify that the installed keyboards appear in the Keyman Configuration dialog. <br>
+    4. Select EuroLatin (SIL) Keyboard. <br>
+    5. Verify that the Options button is enabled. <br>
+    6. Click the Options button. <br>
+    7. Verify that the Options help page opens. <br>
+    8. Click the Close button. <br>
+    9. Verify that the Options help page closes. <br>
+    10. Select Tamil99  keyboard. <br>
+    11. Verify that the Options button is disabled. <br>
+Cleanup Steps:<br>
+    1. Open Terminal window.<br>
+    2. Run <sudo apt --autoremove remove keyman ibus-keyman python3-keyman-config libkmnkbp0-0><br>
+    3. Run <rm -rf ~/.local/share/keyman/> to remove left-over artifacts<br>
+    4. Run <sudo rm -rf /usr/local/share/keyman/>

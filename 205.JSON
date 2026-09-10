@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:07:19 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:48:16 GMT",
+  "description": "<br>Original TestLodge ID: TC145 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335639268,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320096438,
+  "lastModifiedBy": "",
+  "id": "205",
+  "name": "Test case for TextEdit_App with Shortcuts,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "MAC"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Mac OS"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

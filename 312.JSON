@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Sun, 16 Mar 2025 21:49:05 GMT",
+  "createdPrettyTime": "Sun, 16 Mar 2025 21:47:33 GMT",
+  "description": "<p>TC - fix(web): numpad + and - with zoom shortcut use #12865</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1742161745478,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1742161653080,
+  "lastModifiedBy": "",
+  "id": "312",
+  "name": "TC - fix(web): numpad + and - with zoom shortcut",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Web"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

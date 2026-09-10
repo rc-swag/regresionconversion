@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Sun, 08 Jun 2025 18:24:43 GMT",
+  "createdPrettyTime": "Sun, 08 Jun 2025 18:24:11 GMT",
+  "description": "<p>fix(ios): prevent re-display of keyboard when re-entering app to its menus_TEST_REPRO_13629 #13630</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1749407083733,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1749407051998,
+  "lastModifiedBy": "",
+  "id": "358",
+  "name": "Prevent re-display of keyboard when re-entering app to its menus_TEST_REPRO_13629",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "IOS"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:09:59 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:51:20 GMT",
+  "description": "<br>Original TestLodge ID: TC192 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335799954,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320280671,
+  "lastModifiedBy": "",
+  "id": "291",
+  "name": "Test case of BASIC_MODIPRESS,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Gestures"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Gestures"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

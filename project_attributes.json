@@ -1,0 +1,138 @@
+[ {
+  "values" : [ ],
+  "attrValues" : [ {
+    "value" : "Regression",
+    "uuid" : "65e5450b-99b1-446f-ab31-1c706fdfdbbb"
+  }, {
+    "value" : "Dokimion Only",
+    "uuid" : "39b1bd26-eb1e-4249-9eb8-0ba52d0e8330"
+  } ],
+  "id" : "67505b712260360eeddd81bf",
+  "name" : "TestLodgeSuite",
+  "deleted" : false,
+  "createdTime" : 0,
+  "lastModifiedTime" : 1741199161573
+}, {
+  "values" : [ ],
+  "attrValues" : [ {
+    "value" : "Windows",
+    "uuid" : "ae232441-48fc-42ff-8218-97d7a7ecc1f4"
+  }, {
+    "value" : "Linux",
+    "uuid" : "09f4b926-985a-42c9-ba5e-82bcf65a74db"
+  }, {
+    "value" : "Android",
+    "uuid" : "fd9457db-1708-417b-aae3-e6ba141f0f78"
+  }, {
+    "value" : "IOS version (Iphone and Ipad)",
+    "uuid" : "c4e3c81f-7b9a-4259-83ed-57b6060ce9ab"
+  }, {
+    "value" : "Mac OS",
+    "uuid" : "68536ef3-171e-4102-ac4e-98ebee2d3086"
+  }, {
+    "value" : "Keyman Developer",
+    "uuid" : "e1f87d9f-9011-4dba-997a-b6ff69290cc5"
+  }, {
+    "value" : " Web",
+    "uuid" : "5d30273a-fd92-4112-802b-35e01a7d0c8f"
+  }, {
+    "value" : "Gestures",
+    "uuid" : "433f7531-efc3-443b-bcd7-2fe851c32b5d"
+  }, {
+    "value" : "Deprecated <DO NOT EXECUTE>",
+    "uuid" : "0480330e-9b73-4652-85ec-86363f5c9faa"
+  }, {
+    "value" : "Dokimion Only",
+    "uuid" : "f113edfe-b4a2-471d-ac67-14b458041423"
+  } ],
+  "id" : "67505b722260360eeddd81c0",
+  "name" : "TestLodgeSection",
+  "deleted" : false,
+  "createdTime" : 0,
+  "lastModifiedTime" : 1741199173282
+}, {
+  "type" : "TESTCASE",
+  "values" : [ ],
+  "attrValues" : [ {
+    "value" : "Regression",
+    "uuid" : "a8f86ca2-001b-4178-8cb6-aa78aad25b0d"
+  }, {
+    "value" : "BVT",
+    "uuid" : "276ad187-d426-4850-8869-82d5fa39130e"
+  } ],
+  "id" : "67505fc0e232a0621099f299",
+  "name" : "Execution Level",
+  "deleted" : false,
+  "createdTime" : 1733320640740,
+  "lastModifiedTime" : 1733320640740,
+  "createdBy" : "don_dillard@sil.org"
+}, {
+  "type" : "TESTCASE",
+  "values" : [ ],
+  "attrValues" : [ {
+    "value" : "Manual",
+    "uuid" : "b985c681-22a1-422e-96be-83020288a9ed"
+  }, {
+    "value" : "Automatic",
+    "uuid" : "431c7052-03ad-4d21-a1bc-ecbafd7a81d8"
+  } ],
+  "id" : "67505fdbe232a0621099f29a",
+  "name" : "Execution Mode",
+  "deleted" : false,
+  "createdTime" : 1733320667524,
+  "lastModifiedTime" : 1733320667524,
+  "createdBy" : "don_dillard@sil.org"
+}, {
+  "type" : "TESTCASE",
+  "values" : [ ],
+  "attrValues" : [ {
+    "value" : "Windows",
+    "uuid" : "c3919126-e797-45f0-9d92-77af2ddaa1c4"
+  }, {
+    "value" : "Linux",
+    "uuid" : "d40c6a83-362c-4fdd-a6fb-225cb91200f9"
+  }, {
+    "value" : "Android",
+    "uuid" : "9c6b8309-de1e-40ff-81b8-7f495c4e192a"
+  }, {
+    "value" : "IOS",
+    "uuid" : "16850005-021d-4da6-a1ef-aa939a2f13b8"
+  }, {
+    "value" : "MAC",
+    "uuid" : "1017b152-eb26-4ed0-9e08-9d45676c110d"
+  }, {
+    "value" : "Developer",
+    "uuid" : "c70f014d-4d53-4082-aebd-3c89f39c5b68"
+  }, {
+    "value" : "Web",
+    "uuid" : "e550fbe4-3670-4c48-975c-96c0ce21a7e2"
+  }, {
+    "value" : "Gestures",
+    "uuid" : "37e51fd3-f53b-463f-94d5-8902aa7addd3"
+  } ],
+  "id" : "67506011e232a0621099f29b",
+  "name" : "Product",
+  "deleted" : false,
+  "createdTime" : 1733320721016,
+  "lastModifiedTime" : 1733320828692,
+  "createdBy" : "don_dillard@sil.org"
+}, {
+  "type" : "TESTCASE",
+  "values" : [ ],
+  "attrValues" : [ {
+    "value" : "Active",
+    "uuid" : "0e9fdc4d-73af-47c7-9c54-4925d5aeb89c"
+  }, {
+    "value" : "Broken",
+    "uuid" : "ea8d5e74-ddfd-4b18-a3d4-491a8eafa065"
+  }, {
+    "value" : "Deprecated",
+    "uuid" : "11d28a84-6818-407f-9655-b5363dfb83ae"
+  } ],
+  "id" : "675060afe232a0621099f29c",
+  "name" : "status",
+  "deleted" : false,
+  "createdTime" : 1733320879119,
+  "lastModifiedTime" : 1733320879119,
+  "createdBy" : "don_dillard@sil.org"
+} ]

@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 05 Mar 2025 19:54:45 GMT",
+  "createdPrettyTime": "Wed, 05 Mar 2025 18:25:34 GMT",
+  "description": "<p>TC - feat(windows): kmshell switch handling for the installing state_TEST_INSTALL_UPDATE #12956</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1741204485487,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1741199134378,
+  "lastModifiedBy": "",
+  "id": "304",
+  "name": "kmshell switch handling for the installing state_TEST_INSTALL_UPDATE",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

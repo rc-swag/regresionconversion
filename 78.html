@@ -1,0 +1,27 @@
+<p>Setup Steps:<br>
+1. Run to install the latest Keyman in the system.</p>
+<p>&nbsp;</p>
+<p>Action Steps:<br>
+1. Open a Terminal window.<br>
+2. Run "km-kvk2ldml"&nbsp;<br>
+3. Verify that an error message appears in the terminal window.<br>
+4. Run "km-kvk2ldml -o /tmp/test.ldml ~/.local/share/keyman/khmer_angkor/khmer_angkor.kvk"<br>
+5. Verify that the test.ldml file is created in the /tmp folder.&nbsp;<br>
+6. Run "km-kvk2ldml -p ~/.local/share/keyman/khmer_angkor/khmer_angkor.kvk"<br>
+7. Verify that this prints information about the keyboard.&nbsp;<br>
+8. Run "km-kvk2ldml -k -p ~/.local/share/keyman/khmer_angkor/khmer_angkor.kvk"<br>
+9. Verify that, in addition to the information about the keyboard, it prints the keys contained in the keyboard.&nbsp;<br>
+10. Run "man km-kvk2ldml"<br>
+11. Verify it shows the manual page explaining the parameters.&nbsp;<br>
+12. Open Chrome browser.&nbsp;<br>
+13. Type https://help.keyman.com/products/linux/15.0/reference/km-kvk2ldml in the search bar.&nbsp;<br>
+14. Verify that the same information appears in the manual page too.&nbsp;<br>
+(Note: Replace 15.0 with the Keyman version you're testing)</p>
+<p>&nbsp;</p>
+<p>Cleanup Steps:<br>
+1. Open a Terminal window.<br>
+2. Type &ldquo;sudo apt --autoremove remove keyman ibus-keyman python3-keyman-config libkmnkbp0-0&rdquo;.<br>
+3. Run the command below to remove leftover artifacts.<br>
+4. rm -rf ~/.local/share/keyman/<br>
+5. sudo rm -rf /usr/local/share/keyman/</p>
+<p>&nbsp;</p>

@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Sun, 08 Jun 2025 17:58:41 GMT",
+  "createdPrettyTime": "Sun, 08 Jun 2025 17:58:08 GMT",
+  "description": "<p>TC - fix(android): Don't report missing kmp.json #13411</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1749405521919,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1749405488277,
+  "lastModifiedBy": "",
+  "id": "344",
+  "name": "Don't report missing kmp.json",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Android"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

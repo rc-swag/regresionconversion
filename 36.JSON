@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 17:51:26 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:40:14 GMT",
+  "description": "<br>Original TestLodge ID: TC187 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733334686836,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319614760,
+  "lastModifiedBy": "",
+  "id": "36",
+  "name": "Test case for DEAD_CONTEXT_FRAME_KEY(#10061), ",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

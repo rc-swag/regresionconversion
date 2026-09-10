@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 17:51:28 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:39:47 GMT",
+  "description": "<br>Original TestLodge ID: TC23 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733334688913,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319587223,
+  "lastModifiedBy": "",
+  "id": "23",
+  "name": "Test case for Double_Processing_Notepad (TSF),",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

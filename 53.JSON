@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:03:57 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:40:50 GMT",
+  "description": "<br>Original TestLodge ID: TC248 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335437339,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319650878,
+  "lastModifiedBy": "",
+  "id": "53",
+  "name": "LDML_PROCESSOR_NON_COMPLIANT_TEST_MODIFIER_TAP_NO_RESET_GROUP_WINDOWS: TextEditor",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

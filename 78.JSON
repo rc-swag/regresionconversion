@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Fri, 15 Aug 2025 18:57:05 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:41:44 GMT",
+  "description": "<br>Original TestLodge ID: TC50 ",
+  "preconditions": "",
+  "lastModifiedTime": 1755284225294,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319704190,
+  "lastModifiedBy": "",
+  "id": "78",
+  "name": "Test case for Keyman KVK2LDML file using Command line tools, ",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Linux"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Linux"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:07:18 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:48:37 GMT",
+  "description": "<br>Original TestLodge ID: TC235 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335638731,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320117581,
+  "lastModifiedBy": "",
+  "id": "215",
+  "name": "KMX_PROCESSOR_COMPLIANT_TEST_CONTROL_1_GROUP_MAC: TextEdit",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "MAC"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Mac OS"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

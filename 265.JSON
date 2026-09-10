@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:08:52 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:50:24 GMT",
+  "description": "<br>Original TestLodge ID: TC166 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335732636,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320224951,
+  "lastModifiedBy": "",
+  "id": "265",
+  "name": "Test case for Basline_Swedish",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Web"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Web"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

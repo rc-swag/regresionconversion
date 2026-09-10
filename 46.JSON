@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 17:51:27 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:40:36 GMT",
+  "description": "<br>Original TestLodge ID: TC232 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733334687678,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319636004,
+  "lastModifiedBy": "",
+  "id": "46",
+  "name": "KMX_PROCESSOR_COMPLIANT_TEST_FRAME_KEY_RESET_MARKERS_GROUP_WINDOWS: WordPad",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

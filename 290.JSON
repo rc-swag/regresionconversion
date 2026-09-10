@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:09:59 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:51:18 GMT",
+  "description": "<br>Original TestLodge ID: TC191 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335799891,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320278544,
+  "lastModifiedBy": "",
+  "id": "290",
+  "name": "Test case for BASIC_SIMPLE_SHIFT,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Gestures"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Gestures"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

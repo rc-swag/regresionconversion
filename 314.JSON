@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Sun, 16 Mar 2025 21:52:17 GMT",
+  "createdPrettyTime": "Sun, 16 Mar 2025 21:51:39 GMT",
+  "description": "<p>TC - feat(developer): improve compiler messages and user interface_TEST_MESSAGE_RIGHT-CLICK #13156</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1742161937272,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1742161899035,
+  "lastModifiedBy": "",
+  "id": "314",
+  "name": "TC - feat(developer): improve compiler messages and user interface_TEST_MESSAGE_RIGHT-CLICK",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Developer"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

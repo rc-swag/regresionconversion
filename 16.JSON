@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 17:51:28 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:39:32 GMT",
+  "description": "<br>Original TestLodge ID: TC16 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733334688523,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319572420,
+  "lastModifiedBy": "",
+  "id": "16",
+  "name": "Test case for No Caps (CapsOnly-1),",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

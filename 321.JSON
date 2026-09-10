@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Fri, 11 Jul 2025 14:49:41 GMT",
+  "createdPrettyTime": "Thu, 27 Mar 2025 12:30:24 GMT",
+  "description": "<p>TC - bug(android): Keyman website appeared when clicking the \"+\" button on the keyboard settings page. #12797</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1752245381341,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1743078624057,
+  "lastModifiedBy": "",
+  "id": "321",
+  "name": "Keyman website appeared when clicking the \"+\" button on the keyboard settings page.",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Android"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Deprecated"
+    ]
+  },
+  "attachments": []
+}

@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 17:51:27 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:39:30 GMT",
+  "description": "<br>Original TestLodge ID: TC15 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733334687197,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319570313,
+  "lastModifiedBy": "",
+  "id": "15",
+  "name": "Test case for switching turns off caps lock (capsoff-5),",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

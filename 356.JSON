@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Sun, 08 Jun 2025 18:21:43 GMT",
+  "createdPrettyTime": "Sun, 08 Jun 2025 18:21:11 GMT",
+  "description": "<p>TC - fix(ios): allow swipe-dismissal of Settings to be cancelled_TEST_BUTTON_DISMISSAL #13686</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1749406903630,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1749406871812,
+  "lastModifiedBy": "",
+  "id": "356",
+  "name": "Allow swipe-dismissal of Settings to be cancelled_TEST_BUTTON_DISMISSAL",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "IOS"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

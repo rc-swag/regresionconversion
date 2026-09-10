@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 17:51:28 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:40:40 GMT",
+  "description": "<br>Original TestLodge ID: TC234 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733334688266,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319640268,
+  "lastModifiedBy": "",
+  "id": "48",
+  "name": "KMX_PROCESSOR_COMPLIANT_TEST_SCROLLLOCK_KEY_NO_RESET_GROUP_WINDOWS: WordPad",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

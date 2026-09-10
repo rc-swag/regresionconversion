@@ -1,0 +1,28 @@
+Setup Steps:<br>
+1. Install Keyman Developer latest stable build from Keyman.com site.(or state.keyman.com)<br>
+2. Created a new folder under the Download folder.<br>
+3. Created a new folder under the Temp folder.<br>
+<br>
+Action Steps<br>
+1. Navigate to the folder path that has GitHub's Lexical-models keyboard.<br>
+(Get the latest changes from GitHub's in the local machine)<br>
+2. Open the command prompt.<br>
+3. Enter the below command in the window's prompt<br>
+kmc copy "keyboard source file path\folder_name" -o "Keyboard destination folder path"<br>
+E.g. kmc copy C:\Documents\GitHub\lexical-models\release\sil\sil.cmo.bw -o C:\Downloads\TestingKeyboard\LexicalModelKMCTesting1<br>
+<br>
+kmc copy "keyboard source file path\*.kpj" -o "Keyboard destination folder path"<br>
+E.g kmc copy C:\Documents\GitHub\lexical-models\release\sil\sil.cmo.bw\sil.cmo.bw.kpj -o C:\Downloads\TestingKeyboard\LexicalModelKMCTesting<br>
+4. Verify that the keyboard folder or *.kpj file was copied into a new folder.<br>
+5. Verify that the keyboard file was renamed in the new folder.<br>
+<br>
+Cleanup Steps:<br>
+1. Type ‘Control panel’ in the search bar (in the task bar)<br>
+2. Verify that the ‘Control Panel’ appears in the menu list.<br>
+3. Click the Control Panel option.<br>
+4. Verify that the Control Panel dialog appears.<br>
+5. Click the ‘Uninstall a Program’ option.<br>
+6. Verify that the Programs and Features dialog box opens.<br>
+7. Select the installed Keyman Developer version from the list.<br>
+8. Click the Uninstall option.<br>
+9. Verify that the Keyman Uninstallation was completed successfully.

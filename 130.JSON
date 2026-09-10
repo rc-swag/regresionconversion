@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:05:09 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:44:35 GMT",
+  "description": "<br>Original TestLodge ID: TC80 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335509768,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319875708,
+  "lastModifiedBy": "",
+  "id": "130",
+  "name": "Test case for Landscape to Portrait Orientation in the Keyman System Keyboard,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Android"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Android"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

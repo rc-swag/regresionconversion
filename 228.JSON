@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:07:19 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:49:05 GMT",
+  "description": "<br>Original TestLodge ID: TC268 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335639140,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320145420,
+  "lastModifiedBy": "",
+  "id": "228",
+  "name": "LDML_PROCESSOR_COMPLIANT_TEST_MODIFIER_TAP_NO_RESET_GROUP_MAC: TextEdit",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "MAC"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Mac OS"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

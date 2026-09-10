@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Thu, 06 Feb 2025 17:01:49 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:48:27 GMT",
+  "description": "<p><br>Original TestLodge ID: TC222</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1738861309189,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320107006,
+  "lastModifiedBy": "",
+  "id": "210",
+  "name": "KMX_PROCESSOR_NON_COMPLIANT_TEST_CONTROL_1_GROUP_MAC: Chrome Browser",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "MAC"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Mac OS"
+    ],
+    "status": [
+      "Deprecated"
+    ]
+  },
+  "attachments": []
+}

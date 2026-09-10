@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 17:51:26 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:40:02 GMT",
+  "description": "<br>Original TestLodge ID: TC30 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733334686873,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319602083,
+  "lastModifiedBy": "",
+  "id": "30",
+  "name": "Test case for SIMPLIFIED_CHINESE_BACKSPACE_2:",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

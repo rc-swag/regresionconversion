@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:08:19 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:49:33 GMT",
+  "description": "<br>Original TestLodge ID: TC152 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335699727,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320173426,
+  "lastModifiedBy": "",
+  "id": "241",
+  "name": "Test case for Debugger_Starts ,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Developer"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Keyman Developer"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

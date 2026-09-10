@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:07:18 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:48:22 GMT",
+  "description": "<br>Original TestLodge ID: TC148 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335638252,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320102783,
+  "lastModifiedBy": "",
+  "id": "208",
+  "name": "Test case for MAIL app with Shortcuts, ",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "MAC"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Mac OS"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

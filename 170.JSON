@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:06:24 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:46:01 GMT",
+  "description": "<br>Original TestLodge ID: TC215 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335584110,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319961066,
+  "lastModifiedBy": "",
+  "id": "170",
+  "name": "Test case for bug(iOS): predictive-text consistency after backspaces #10127,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "IOS"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "IOS version (Iphone and Ipad)"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

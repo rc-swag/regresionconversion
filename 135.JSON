@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:05:09 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:44:46 GMT",
+  "description": "<br>Original TestLodge ID: TC85 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335509973,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319886311,
+  "lastModifiedBy": "",
+  "id": "135",
+  "name": "Test case for FLICKER_BANNER unnecessary flicker on banner while typing (7162)",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Android"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Android"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

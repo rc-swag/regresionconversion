@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:10:00 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:52:40 GMT",
+  "description": "<br>Original TestLodge ID: TC201 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335800113,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320360247,
+  "lastModifiedBy": "",
+  "id": "300",
+  "name": "Test case for FLICK_LOCKING,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Gestures"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Gestures"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

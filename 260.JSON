@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:08:20 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:50:13 GMT",
+  "description": "<br>Original TestLodge ID: TC305 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335700118,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320213873,
+  "lastModifiedBy": "",
+  "id": "260",
+  "name": "feat(developer): kmc generate #11014(TEST_LEXICAL_MODEL)",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Developer"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Keyman Developer"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

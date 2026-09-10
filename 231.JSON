@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:07:17 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:49:11 GMT",
+  "description": "<br>Original TestLodge ID: TC286 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335637803,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320151788,
+  "lastModifiedBy": "",
+  "id": "231",
+  "name": "feat(mac): both option keys generate right alt if no left alt mapping #12458(TEST_RALT_KEYBOARD_WITH_OPTION_KEY_COMBOS)",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "MAC"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Mac OS"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

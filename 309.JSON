@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 05 Mar 2025 20:35:44 GMT",
+  "createdPrettyTime": "Wed, 05 Mar 2025 20:33:39 GMT",
+  "description": "<p>TC - fix(windows): handle keyboard package not downloaded #12948</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1741206944924,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1741206819566,
+  "lastModifiedBy": "",
+  "id": "309",
+  "name": "Handle keyboard package not downloaded",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

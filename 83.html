@@ -1,0 +1,28 @@
+<p>Setup Steps:<br>
+1. Install the latest Keyman in the system.<br>
+2. Install Khmer Angkor Keyboard.&nbsp;<br>
+3. Install IPA (SIL) Keyboard.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Action Steps:<br>
+1. Open Terminal Window.<br>
+2. Run "sudo apt --autoremove remove keyman"<br>
+3. Run "sudo rm /etc/apt/sources.list.d/keymanapp-ubuntu-keyman*"<br>
+4. Run "sudo add-apt-repository ppa:keymanapp/keyman"<br>
+5. Run "sudo apt update"<br>
+6. Run "sudo apt install keyman"<br>
+7. Verify that this has installed the latest stable version.&nbsp;<br>
+8. Click the Keyman icon, which appears in the taskbar.&nbsp;<br>
+9. Verify that the Keyman keyboards still show up in the keyboards dropdown.<br>
+10. Select Khmer Angkor Keyboard.&nbsp;<br>
+11. Verify that the Khmer Angkor Keyboard icon appears in the taskbar instead of the Keyman icon.<br>
+12. Open Text editor.&nbsp;<br>
+13. Type xEjmr.&nbsp;<br>
+14. Verify that the output results &ldquo;ខ្មែរ&rdquo; in the text editor.</p>
+<p>&nbsp;</p>
+<p>Cleanup Steps:<br>
+1. Open a Terminal window.<br>
+2. Type &ldquo;sudo apt --autoremove remove keyman ibus-keyman python3-keyman-config libkmnkbp0-0&rdquo;.<br>
+3. Run the command below to remove leftover artifacts.<br>
+4. rm -rf ~/.local/share/keyman/<br>
+5. sudo rm -rf /usr/local/share/keyman/</p>
+<p>&nbsp;</p>

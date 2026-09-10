@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:09:59 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:51:24 GMT",
+  "description": "<br>Original TestLodge ID: TC194 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335799906,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320284907,
+  "lastModifiedBy": "",
+  "id": "293",
+  "name": "Test case for NUMERIC_FROM_SHIFT,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Gestures"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Gestures"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

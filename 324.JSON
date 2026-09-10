@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Thu, 27 Mar 2025 12:38:34 GMT",
+  "createdPrettyTime": "Thu, 27 Mar 2025 12:37:36 GMT",
+  "description": "<p>TC - feat(windows): UI layout for update tab_TEST_UI_UPDATES_KBD #12840</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1743079114713,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1743079056759,
+  "lastModifiedBy": "",
+  "id": "324",
+  "name": "UI layout for update tab_TEST_UI_UPDATES_KBD",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

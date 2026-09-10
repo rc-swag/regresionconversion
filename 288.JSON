@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:09:59 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:51:14 GMT",
+  "description": "<br>Original TestLodge ID: TC189 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335799924,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320274315,
+  "lastModifiedBy": "",
+  "id": "288",
+  "name": "Test case for 10_KEY_DIACRITICS,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Gestures"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Gestures"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}
