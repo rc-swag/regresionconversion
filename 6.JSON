@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 17:51:27 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:39:11 GMT",
+  "description": "<br>Original TestLodge ID: TC06 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733334687170,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319551247,
+  "lastModifiedBy": "",
+  "id": "6",
+  "name": "Test case for Uppercase with Virtual key (Capslock-1) ,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

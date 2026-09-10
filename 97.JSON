@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:04:36 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:42:24 GMT",
+  "description": "<br>Original TestLodge ID: TC256 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335476787,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319744561,
+  "lastModifiedBy": "",
+  "id": "97",
+  "name": "LDML_PROCESSOR_NON_COMPLIANT_TEST_FRAME_KEY_RESET_NO_MARKERS_GROUP_LINUX: Chrome Browser",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Linux"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Linux"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

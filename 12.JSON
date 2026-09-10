@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 17:51:28 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:39:23 GMT",
+  "description": "<br>Original TestLodge ID: TC12 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733334688781,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319563932,
+  "lastModifiedBy": "",
+  "id": "12",
+  "name": "Test case for Caps lock stays off (capsoff-2),",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

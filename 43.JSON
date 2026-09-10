@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 17:51:26 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:40:29 GMT",
+  "description": "<br>Original TestLodge ID: TC220 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733334686906,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319629632,
+  "lastModifiedBy": "",
+  "id": "43",
+  "name": "KMX_PROCESSOR_NON_COMPLIANT_TEST_FRAME_KEY_RESET_NOMARKERS_GROUP_WINDOWS: TextEditor",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

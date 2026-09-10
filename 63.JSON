@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Fri, 15 Aug 2025 18:38:34 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:41:12 GMT",
+  "description": "<p><br>Original TestLodge ID: TC35</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1755283114032,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319672438,
+  "lastModifiedBy": "",
+  "id": "63",
+  "name": "Test case for installing Keyman and onboard.",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Linux"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Linux"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

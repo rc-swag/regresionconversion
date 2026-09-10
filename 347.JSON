@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Sun, 08 Jun 2025 18:04:27 GMT",
+  "createdPrettyTime": "Sun, 08 Jun 2025 18:03:53 GMT",
+  "description": "<p>TC - fix(android): Add back button to \"Adjust Keyboard Height \"menu #13645</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1749405867492,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1749405833708,
+  "lastModifiedBy": "",
+  "id": "347",
+  "name": "Add back button to \"Adjust Keyboard Height \"menu",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Android"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

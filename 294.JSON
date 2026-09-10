@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:09:59 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:51:27 GMT",
+  "description": "<br>Original TestLodge ID: TC195 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335799970,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320287021,
+  "lastModifiedBy": "",
+  "id": "294",
+  "name": "Test case for DELAYED_SUBKEY,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Gestures"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Gestures"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:08:52 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:50:27 GMT",
+  "description": "<br>Original TestLodge ID: TC167 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335732688,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320227091,
+  "lastModifiedBy": "",
+  "id": "266",
+  "name": "Test case for Text Selection_Tests (Windows)",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Web"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Web"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

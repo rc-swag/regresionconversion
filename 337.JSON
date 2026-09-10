@@ -1,0 +1,39 @@
+{
+  "lastModifiedPrettyTime": "Sun, 08 Jun 2025 17:46:22 GMT",
+  "createdPrettyTime": "Sun, 08 Jun 2025 17:42:42 GMT",
+  "description": "<p>TC - change(web): cancel flicks when both returning to and releasing at original tap location_TEST_FLICK_RESET_FULL #13683</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1749404782600,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1749404562930,
+  "lastModifiedBy": "",
+  "id": "337",
+  "name": "Cancel flicks when both returning to and releasing at original tap location_TEST_FLICK_RESET_FULL",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Web",
+      "Android"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

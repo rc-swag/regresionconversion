@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:08:53 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:51:09 GMT",
+  "description": "<br>Original TestLodge ID: TC216 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335733005,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320269626,
+  "lastModifiedBy": "",
+  "id": "286",
+  "name": "fix(web): correctly handle cross-origin stylesheets when calculating keyboard size and key cap font size #11472",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Web"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Web"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 17:51:27 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:40:12 GMT",
+  "description": "<br>Original TestLodge ID: TC186 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733334687552,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319612650,
+  "lastModifiedBy": "",
+  "id": "35",
+  "name": "Test case for installing offline build (PR #10000):",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

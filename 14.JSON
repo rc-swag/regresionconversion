@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 17:51:27 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:39:28 GMT",
+  "description": "<br>Original TestLodge ID: TC14 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733334687280,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319568189,
+  "lastModifiedBy": "",
+  "id": "14",
+  "name": "Test case for Caps lock while holding capslock key (capsoff-4),",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

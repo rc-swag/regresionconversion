@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:08:20 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:49:58 GMT",
+  "description": "<br>Original TestLodge ID: TC298 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335700096,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320198948,
+  "lastModifiedBy": "",
+  "id": "253",
+  "name": "feat(developer): kmc-copy #12555 (TEST_COPY_MODELS)",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Developer"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Keyman Developer"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

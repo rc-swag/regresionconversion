@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Tue, 22 Apr 2025 17:07:24 GMT",
+  "createdPrettyTime": "Tue, 22 Apr 2025 17:06:34 GMT",
+  "description": "<p>TC - change(android): re-order host page script load so Sentry can report script load failures #13333</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1745341644921,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1745341594140,
+  "lastModifiedBy": "",
+  "id": "329",
+  "name": "Re-order host page script load so Sentry can report script load failures",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Android"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

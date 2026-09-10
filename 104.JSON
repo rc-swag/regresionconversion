@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:04:36 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:43:40 GMT",
+  "description": "<br>Original TestLodge ID: TC273 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335476879,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319820241,
+  "lastModifiedBy": "",
+  "id": "104",
+  "name": "LDML_PROCESSOR_COMPLIANT_TEST_MODIFIER_TAP_NO_RESET_GROUP_LINUX: gedit",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Linux"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Linux"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

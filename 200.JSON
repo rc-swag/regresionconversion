@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:07:17 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:48:05 GMT",
+  "description": "<br>Original TestLodge ID: TC140 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335637403,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320085830,
+  "lastModifiedBy": "",
+  "id": "200",
+  "name": "Test case for Firefox_FB_Search_Control with Shortcuts,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "MAC"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Mac OS"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

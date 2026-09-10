@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Fri, 15 Aug 2025 18:47:59 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:41:29 GMT",
+  "description": "<br>Original TestLodge ID: TC43 ",
+  "preconditions": "",
+  "lastModifiedTime": 1755283679999,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319689341,
+  "lastModifiedBy": "",
+  "id": "71",
+  "name": "Test case for UI_About keyboard, ",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Linux"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Linux"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

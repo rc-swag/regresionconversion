@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 17:51:26 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:39:34 GMT",
+  "description": "<br>Original TestLodge ID: TC17 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733334686992,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319574539,
+  "lastModifiedBy": "",
+  "id": "17",
+  "name": "Test case for Caps (CapsOnly-2),",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

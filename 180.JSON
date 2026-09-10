@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:07:16 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:46:22 GMT",
+  "description": "<br>Original TestLodge ID: TC120 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335636018,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319982694,
+  "lastModifiedBy": "",
+  "id": "180",
+  "name": "Test case for Firefox_URL_Bar with Amharic, ",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "MAC"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Mac OS"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

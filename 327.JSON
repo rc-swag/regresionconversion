@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Tue, 22 Apr 2025 17:00:02 GMT",
+  "createdPrettyTime": "Tue, 22 Apr 2025 16:58:49 GMT",
+  "description": "<p>TC - fix(android): Handle banner overrides independently when device is locked and unlocked #13546</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1745341202086,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1745341129793,
+  "lastModifiedBy": "",
+  "id": "327",
+  "name": "Handle banner overrides independently when device is locked and unlocked",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Android"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

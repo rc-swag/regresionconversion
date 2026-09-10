@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:05:09 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:44:20 GMT",
+  "description": "<br>Original TestLodge ID: TC73 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335509162,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319860882,
+  "lastModifiedBy": "",
+  "id": "123",
+  "name": "Test case for Portrait to Landscape Orientation in the Keyman app,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Android"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Android"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

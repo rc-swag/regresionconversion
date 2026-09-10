@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:07:17 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:46:50 GMT",
+  "description": "<br>Original TestLodge ID: TC133 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335637104,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320010199,
+  "lastModifiedBy": "",
+  "id": "193",
+  "name": "Test case for Chrome_Word_Online with Shortcuts,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "MAC"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Mac OS"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

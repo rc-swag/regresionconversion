@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:03:56 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:41:07 GMT",
+  "description": "<br>Original TestLodge ID: TC295 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335436753,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319667855,
+  "lastModifiedBy": "",
+  "id": "61",
+  "name": "feat(windows): add right modifier included in hotkey optional functionality #12259(TEST_LANGUAGE_HOTKEYS_LEFT_SIDE)",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Windows"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Windows"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

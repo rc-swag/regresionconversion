@@ -1,0 +1,144 @@
+{
+  "deleted": false,
+  "attributeMap": {
+    "67505b712260360eeddd81bf": "TestLodgeSuite",
+    "67505b722260360eeddd81c0": "TestLodgeSection",
+    "67505fc0e232a0621099f299": "Execution Level",
+    "67505fdbe232a0621099f29a": "Execution Mode",
+    "67506011e232a0621099f29b": "Product",
+    "675060afe232a0621099f29c": "status"
+  },
+  "attributes": [
+    {
+      "id": "67505b712260360eeddd81bf",
+      "name": "TestLodgeSuite",
+      "type": null,
+      "attrValues": [
+        {
+          "value": "Regression"
+        },
+        {
+          "value": "Dokimion Only"
+        }
+      ]
+    },
+    {
+      "id": "67505b722260360eeddd81c0",
+      "name": "TestLodgeSection",
+      "type": null,
+      "attrValues": [
+        {
+          "value": "Windows"
+        },
+        {
+          "value": "Linux"
+        },
+        {
+          "value": "Android"
+        },
+        {
+          "value": "IOS version (Iphone and Ipad)"
+        },
+        {
+          "value": "Mac OS"
+        },
+        {
+          "value": "Keyman Developer"
+        },
+        {
+          "value": " Web"
+        },
+        {
+          "value": "Gestures"
+        },
+        {
+          "value": "Deprecated <DO NOT EXECUTE>"
+        },
+        {
+          "value": "Dokimion Only"
+        }
+      ]
+    },
+    {
+      "id": "67505fc0e232a0621099f299",
+      "name": "Execution Level",
+      "type": "TESTCASE",
+      "attrValues": [
+        {
+          "value": "Regression"
+        },
+        {
+          "value": "BVT"
+        }
+      ]
+    },
+    {
+      "id": "67505fdbe232a0621099f29a",
+      "name": "Execution Mode",
+      "type": "TESTCASE",
+      "attrValues": [
+        {
+          "value": "Manual"
+        },
+        {
+          "value": "Automatic"
+        }
+      ]
+    },
+    {
+      "id": "67506011e232a0621099f29b",
+      "name": "Product",
+      "type": "TESTCASE",
+      "attrValues": [
+        {
+          "value": "Windows"
+        },
+        {
+          "value": "Linux"
+        },
+        {
+          "value": "Android"
+        },
+        {
+          "value": "IOS"
+        },
+        {
+          "value": "MAC"
+        },
+        {
+          "value": "Developer"
+        },
+        {
+          "value": "Web"
+        },
+        {
+          "value": "Gestures"
+        }
+      ]
+    },
+    {
+      "id": "675060afe232a0621099f29c",
+      "name": "status",
+      "type": "TESTCASE",
+      "attrValues": [
+        {
+          "value": "Active"
+        },
+        {
+          "value": "Broken"
+        },
+        {
+          "value": "Deprecated"
+        }
+      ]
+    }
+  ],
+  "description": "",
+  "readWriteUsers": [
+    "santhosh@ecgroup-intl.com",
+    "dinakaran@ecgroup-intl.com",
+    "ross_cruickshank@sil.org"
+  ],
+  "id": "keyman",
+  "name": "Keyman"
+}

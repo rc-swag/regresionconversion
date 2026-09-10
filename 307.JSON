@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 05 Mar 2025 20:29:33 GMT",
+  "createdPrettyTime": "Wed, 05 Mar 2025 19:58:15 GMT",
+  "description": "fix(android/engine): Revert how keyboard picker menu launches #12986",
+  "preconditions": "",
+  "lastModifiedTime": 1741206573429,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1741204695523,
+  "lastModifiedBy": "",
+  "id": "307",
+  "name": "Revert how keyboard picker menu launches",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Android"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

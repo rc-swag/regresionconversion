@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Sun, 16 Mar 2025 21:59:02 GMT",
+  "createdPrettyTime": "Sun, 16 Mar 2025 21:58:32 GMT",
+  "description": "<p>TC - fix(android): Catch WebView exceptions and prompt user to install WebView_TEST_INSTALL_CHROME #13140</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1742162342027,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1742162312691,
+  "lastModifiedBy": "",
+  "id": "319",
+  "name": "TC - fix(android): Catch WebView exceptions and prompt user to install WebView_TEST_INSTALL_CHROME",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Android"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Sun, 08 Jun 2025 18:30:18 GMT",
+  "createdPrettyTime": "Sun, 08 Jun 2025 18:29:46 GMT",
+  "description": "<p>TC - fix(developer): remove redundant Name and RTL fields from .kps LexicalModel_TEST_NEW_PROJECT #13640</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1749407418359,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1749407386553,
+  "lastModifiedBy": "",
+  "id": "362",
+  "name": "Remove redundant Name and RTL fields from .kps LexicalModel_TEST_NEW_PROJECT",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Developer"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

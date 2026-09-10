@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:08:52 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:51:07 GMT",
+  "description": "<br>Original TestLodge ID: TC211 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335732802,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320267504,
+  "lastModifiedBy": "",
+  "id": "285",
+  "name": "Test case for (web): intermittent K_BKSP rule is deleting more than it should #9268,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Web"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Web"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

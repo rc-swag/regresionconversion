@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Sun, 16 Mar 2025 21:56:37 GMT",
+  "createdPrettyTime": "Sun, 16 Mar 2025 21:56:02 GMT",
+  "description": "<p>TC - fix(developer): support &amp;displayMap font in web debugger_TEST_DISPLAYMAP_FONT #12929</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1742162197647,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1742162162104,
+  "lastModifiedBy": "",
+  "id": "317",
+  "name": "TC - fix(developer): support &displayMap font in web debugger_TEST_DISPLAYMAP_FONT",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Developer"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

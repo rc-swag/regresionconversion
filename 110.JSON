@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:05:08 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:43:53 GMT",
+  "description": "<br>Original TestLodge ID: TC60 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335508417,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733319833329,
+  "lastModifiedBy": "",
+  "id": "110",
+  "name": "Test case for sharing a text to an external application (eg., Notes App),",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Android"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Android"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:08:53 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:51:05 GMT",
+  "description": "<br>Original TestLodge ID: TC185 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335733216,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320265376,
+  "lastModifiedBy": "",
+  "id": "284",
+  "name": "Test case for Specific_Keyboards (Touch / Hardware Platforms), ",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Web"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Web"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:08:53 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:50:52 GMT",
+  "description": "<br>Original TestLodge ID: TC179 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335733020,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320252606,
+  "lastModifiedBy": "",
+  "id": "278",
+  "name": "Test case for Baseline_Add_Spanish (Touch / Hardware Platforms), ",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Web"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Web"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

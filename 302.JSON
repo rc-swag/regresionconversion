@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:10:00 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:52:44 GMT",
+  "description": "<br>Original TestLodge ID: TC203 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335800018,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320364487,
+  "lastModifiedBy": "",
+  "id": "302",
+  "name": "Test case for FLICK_DURING_MODIPRESS,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Gestures"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Gestures"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

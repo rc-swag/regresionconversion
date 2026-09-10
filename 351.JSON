@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Sun, 08 Jun 2025 18:12:10 GMT",
+  "createdPrettyTime": "Sun, 08 Jun 2025 18:11:37 GMT",
+  "description": "<p>TC - fix(ios): do not show notification for downloaded keyboard when showing its installer_TEST_REPRO_12590_SINGLE #13687</p>",
+  "preconditions": "",
+  "lastModifiedTime": 1749406330469,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1749406297231,
+  "lastModifiedBy": "",
+  "id": "351",
+  "name": "Do not show notification for downloaded keyboard when showing its installer_TEST_REPRO_12590_SINGLE",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "IOS"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Dokimion Only"
+    ],
+    "TestLodgeSuite": [
+      "Dokimion Only"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

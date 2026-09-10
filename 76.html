@@ -1,0 +1,27 @@
+<p>Setup Steps:<br>
+1. Install the latest Keyman in the system.</p>
+<p>&nbsp;</p>
+<p>Action Steps:<br>
+1. Open Terminal Window<br>
+2. Run "km-package-install"<br>
+3. Verify that you get an error message.&nbsp;<br>
+4. Run "km-package-install -p sil_korda_jamo"<br>
+5. Verify that this adds the &ldquo;Korean KORDA Jamo (SIL)&rdquo; keyboard to the keyboard dropdown.&nbsp;<br>
+6. Run "sudo km-package-install -s -f ~/.cache/keyman/hieroglyphic.kmp"<br>
+7. Verify that this adds the &ldquo;Hieroglyphic&rdquo; keyboard for ancient Egyptian to the keyboard dropdown.&nbsp;<br>
+8. Type km-package-install -p gff_amh<br>
+9. Press the TAB key.<br>
+10. Verify that this completes the command to "km-package-install -p gff_amharic"<br>
+11. Run "man km-package-install"<br>
+12. Verify it shows the manual page explaining the parameters.<br>
+13. Open Chrome browser.&nbsp;<br>
+14. Type &ldquo;https://help.keyman.com/products/linux/15.0/reference/km-package-install &ldquo; in the Search box.&nbsp;<br>
+15. Verify that the same information is in the manual page.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Cleanup Steps:<br>
+1. Open a Terminal window.<br>
+2. Type &ldquo;sudo apt --autoremove remove keyman ibus-keyman python3-keyman-config libkmnkbp0-0&rdquo;.<br>
+3. Run the command below to remove leftover artifacts.<br>
+4. rm -rf ~/.local/share/keyman/<br>
+5. sudo rm -rf /usr/local/share/keyman/</p>
+<p>&nbsp;</p>

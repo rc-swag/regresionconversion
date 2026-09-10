@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:08:20 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:50:05 GMT",
+  "description": "<br>Original TestLodge ID: TC301 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335700031,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320205326,
+  "lastModifiedBy": "",
+  "id": "256",
+  "name": "fix(developer): handle paste of TSV into Wordlist grid #12594(TEST_PASTE_SIMPLE_STRING)",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Developer"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Keyman Developer"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

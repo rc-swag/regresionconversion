@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:07:19 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:48:54 GMT",
+  "description": "<br>Original TestLodge ID: TC253 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335639070,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320134810,
+  "lastModifiedBy": "",
+  "id": "223",
+  "name": "LDML_PROCESSOR_NON_COMPLIANT_TEST_MODIFIER_TAP_NO_RESET_GROUP_MAC: Chrome Browser",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "MAC"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Mac OS"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

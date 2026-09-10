@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:08:20 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:49:48 GMT",
+  "description": "<br>Original TestLodge ID: TC159 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335700060,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320188303,
+  "lastModifiedBy": "",
+  "id": "248",
+  "name": "Test Case for Server_Keep_Alive,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Developer"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Keyman Developer"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

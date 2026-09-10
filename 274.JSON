@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:08:53 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:50:44 GMT",
+  "description": "<br>Original TestLodge ID: TC175 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335733158,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320244106,
+  "lastModifiedBy": "",
+  "id": "274",
+  "name": "Test case for Japanese_Focus",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Web"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Web"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

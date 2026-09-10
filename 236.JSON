@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:07:18 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:49:22 GMT",
+  "description": "<br>Original TestLodge ID: TC291 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335638062,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320162424,
+  "lastModifiedBy": "",
+  "id": "236",
+  "name": "change(mac): remove 'Always show OSK' option #12355(TEST_OSK_REMAINS_HIDDEN_WITH_KEYMAN_INACTIVE)",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "MAC"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Mac OS"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}

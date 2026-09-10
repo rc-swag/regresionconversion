@@ -1,0 +1,38 @@
+{
+  "lastModifiedPrettyTime": "Wed, 04 Dec 2024 18:10:00 GMT",
+  "createdPrettyTime": "Wed, 04 Dec 2024 13:51:33 GMT",
+  "description": "<br>Original TestLodge ID: TC198 ",
+  "preconditions": "",
+  "lastModifiedTime": 1733335800084,
+  "createdBy": "don_dillard@sil.org",
+  "createdTime": 1733320293380,
+  "lastModifiedBy": "",
+  "id": "297",
+  "name": "Test case for ALTERNATING_SHIFT_AND_KEY,",
+  "automated": false,
+  "broken": false,
+  "deleted": false,
+  "launchBroken": false,
+  "locked": false,
+  "attributes": {
+    "Execution Mode": [
+      "Manual"
+    ],
+    "Product": [
+      "Gestures"
+    ],
+    "Execution Level": [
+      "Regression"
+    ],
+    "TestLodgeSuite": [
+      "Regression"
+    ],
+    "TestLodgeSection": [
+      "Gestures"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "attachments": []
+}
