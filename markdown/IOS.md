@@ -3,6 +3,7 @@
 Generated from the numbered HTML/JSON regression-test export.
 
 **TEST_ALLOW_SWIPE-DISMISSAL_OF_SETTINGS_TO_BE_CANCELLED_TEST_BUTTON_DISMISSAL**
+
 Allow swipe-dismissal of Settings to be cancelled_TEST_BUTTON_DISMISSAL
 
 Status: `Active`
@@ -67,6 +68,7 @@ TC - fix(ios): allow swipe-dismissal of Settings to be cancelled_TEST_BUTTON_DIS
 ---
 
 **TEST_DO_NOT_SHOW_NOTIFICATION_FOR_DOWNLOADED_KEYBOARD_WHEN_SHOWING_ITS_INSTALLER_TEST_REPRO_12590_SINGLE**
+
 Do not show notification for downloaded keyboard when showing its installer_TEST_REPRO_12590_SINGLE
 
 Status: `Active`
@@ -130,6 +132,7 @@ TC - fix(ios): do not show notification for downloaded keyboard when showing its
 ---
 
 **TEST_DO_NOT_SHOW_NOTIFICATION_FOR_DOWNLOADED_KEYBOARD_WHEN_SHOWING_ITS_INSTALLER_TEST_REPRO_UPDATES_AVAILABLE**
+
 Do not show notification for downloaded keyboard when showing its installer_TEST_REPRO_UPDATES_AVAILABLE
 
 Status: `Active`
@@ -197,6 +200,7 @@ TC - fix(ios): do not show notification for downloaded keyboard when showing its
 ---
 
 **TEST_PREVENT_RE-DISPLAY_OF_KEYBOARD_WHEN_RE-ENTERING_APP_TO_ITS_MENUS_TEST_REPRO_13629**
+
 Prevent re-display of keyboard when re-entering app to its menus_TEST_REPRO_13629
 
 Status: `Active`
@@ -257,6 +261,7 @@ fix(ios): prevent re-display of keyboard when re-entering app to its menus_TEST_
 ---
 
 **TEST_PREVENT_RE-DISPLAY_OF_KEYBOARD_WHEN_RE-ENTERING_APP_TO_ITS_MENUS_TEST_REPRO_EST_REPRO_6387**
+
 Prevent re-display of keyboard when re-entering app to its menus_TEST_REPRO_EST_REPRO_6387
 
 Status: `Active`
@@ -316,6 +321,7 @@ fix(ios): prevent re-display of keyboard when re-entering app to its menus_TEST_
 ---
 
 **TEST_SLIDE_DISMISSAL_OF_KEYBOARD-HEIGHT_ADJUSTER_WILL_PROPERLY_RESIZE_THE_KEYBOARD_TEST_REPRO_13443**
+
 Slide dismissal of keyboard-height adjuster will properly resize the keyboard_TEST_REPRO_13443
 
 Status: `Active`
@@ -378,6 +384,7 @@ TC - fix(ios): slide dismissal of keyboard-height adjuster will properly resize 
 ---
 
 **TEST_TEST_CASE_FOR_ADDING_A_NEW_KEYBOARD_VIA_GET_STARTED_MENU**
+
 Test case for adding a new keyboard via Get Started menu,
 
 Status: `Active`
@@ -438,6 +445,7 @@ Original TestLodge ID: TC95
 ---
 
 **TEST_TEST_CASE_FOR_APPEARING_TEXT_SIZE_IN_THE_INPUT_TEXT_SCREEN**
+
 Test case for appearing Text Size in the Input text Screen,
 
 Status: `Active`
@@ -495,6 +503,7 @@ Original TestLodge ID: TC100
 ---
 
 **TEST_TEST_CASE_FOR_BUG_IOS_PREDICTIVE-TEXT_CONSISTENCY_AFTER_BACKSPACES_10127**
+
 Test case for bug(iOS): predictive-text consistency after backspaces #10127,
 
 Status: `Active`
@@ -548,6 +557,7 @@ Original TestLodge ID: TC215
 ---
 
 **TEST_TEST_CASE_FOR_FOR_CHANGING_UI_LANGUAGE_INTO_AMHARIC_IN_THE_KEYMAN_IN-APP**
+
 Test case for for changing UI language into Amharic in the Keyman In-App,
 
 Status: `Active`
@@ -613,6 +623,7 @@ Original TestLodge ID: TC110
 ---
 
 **TEST_TEST_CASE_FOR_INFO_HELP_TOPIC**
+
 Test case for Info Help topic,
 
 Status: `Active`
@@ -678,6 +689,7 @@ Original TestLodge ID: TC102
 ---
 
 **TEST_TEST_CASE_FOR_LONG_PRESS_ON_ALL_LAYERS_IN_THE_ON_SCREEN_KEYBOARD**
+
 Test case for Long Press on all layers in the On Screen Keyboard,
 
 Status: `Active`
@@ -745,6 +757,7 @@ Original TestLodge ID: TC107
 ---
 
 **TEST_TEST_CASE_FOR_SWITCH_KEYBOARD**
+
 Test case for Switch_Keyboard,
 
 Status: `Active`
@@ -805,6 +818,7 @@ Original TestLodge ID: TC97
 ---
 
 **TEST_TEST_CASE_FOR_US_BASIC_KEYBOARD**
+
 Test case for US Basic Keyboard,
 
 Status: `Active`
@@ -924,6 +938,7 @@ Original TestLodge ID: TC105
 ---
 
 **TEST_TEST_CASE_FOR_GET_STARTED_MENU**
+
 Test Case for “Get_Started” menu
 
 Status: `Active`

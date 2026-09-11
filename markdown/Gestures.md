@@ -3,6 +3,7 @@
 Generated from the numbered HTML/JSON regression-test export.
 
 **TEST_TEST_CASE_FOR_10_KEY_DIACRITICS**
+
 Test case for 10_KEY_DIACRITICS,
 
 Status: `Active`
@@ -71,6 +72,7 @@ Original TestLodge ID: TC189
 ---
 
 **TEST_TEST_CASE_FOR_10_KEY_ROTA**
+
 Test case for 10_KEY_ROTA,
 
 Status: `Active`
@@ -140,6 +142,7 @@ Original TestLodge ID: TC188
 ---
 
 **TEST_TEST_CASE_FOR_ALTERNATING_SHIFT_AND_KEY**
+
 Test case for ALTERNATING_SHIFT_AND_KEY,
 
 Status: `Active`
@@ -206,6 +209,7 @@ Original TestLodge ID: TC198
 ---
 
 **TEST_TEST_CASE_FOR_APP_10_KEY_DIACRITICS**
+
 Test case for APP_10_KEY_DIACRITICS,
 
 Status: `Active`
@@ -273,6 +277,7 @@ Original TestLodge ID: TC190
 ---
 
 **TEST_TEST_CASE_FOR_BASIC_MODIPRESS_HOLD**
+
 Test case for BASIC_MODIPRESS_HOLD,
 
 Status: `Active`
@@ -336,6 +341,7 @@ Original TestLodge ID: TC193
 ---
 
 **TEST_TEST_CASE_FOR_BASIC_SIMPLE_SHIFT**
+
 Test case for BASIC_SIMPLE_SHIFT,
 
 Status: `Active`
@@ -397,6 +403,7 @@ Original TestLodge ID: TC191
 ---
 
 **TEST_TEST_CASE_FOR_DELAYED_SUBKEY**
+
 Test case for DELAYED_SUBKEY,
 
 Status: `Active`
@@ -464,6 +471,7 @@ Original TestLodge ID: TC195
 ---
 
 **TEST_TEST_CASE_FOR_DOUBLETAP_CAPS**
+
 Test case for DOUBLETAP_CAPS,
 
 Status: `Active`
@@ -527,6 +535,7 @@ Original TestLodge ID: TC196
 ---
 
 **TEST_TEST_CASE_FOR_FLICK_DURING_MODIPRESS**
+
 Test case for FLICK_DURING_MODIPRESS,
 
 Status: `Active`
@@ -600,6 +609,7 @@ Original TestLodge ID: TC203
 ---
 
 **TEST_TEST_CASE_FOR_FLICK_LOCKING**
+
 Test case for FLICK_LOCKING,
 
 Status: `Active`
@@ -679,6 +689,7 @@ Original TestLodge ID: TC201
 ---
 
 **TEST_TEST_CASE_FOR_NUMERIC_FROM_SHIFT**
+
 Test case for NUMERIC_FROM_SHIFT,
 
 Status: `Active`
@@ -751,6 +762,7 @@ Original TestLodge ID: TC194
 ---
 
 **TEST_TEST_CASE_OF_BASIC_MODIPRESS**
+
 Test case of BASIC_MODIPRESS,
 
 Status: `Active`
