@@ -194,6 +194,7 @@ def render_record(record: TestRecord) -> str:
     ]
     blocks = [
         f"**{record.test_id}**",
+        "",
         record.name,
         "",
         f"Status: `{record.status or 'Not specified'}`",

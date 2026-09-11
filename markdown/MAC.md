@@ -3,6 +3,7 @@
 Generated from the numbered HTML/JSON regression-test export.
 
 **TEST_CHANGE_MAC_REMOVE_ALWAYS_SHOW_OSK_OPTION_12355_TEST_ALWAYS_SHOW_OPTION_IS_GONE**
+
 change(mac): remove 'Always show OSK' option #12355 (TEST_ALWAYS_SHOW_OPTION_IS_GONE)
 
 Status: `Active`
@@ -52,6 +53,7 @@ Original TestLodge ID: TC288
 ---
 
 **TEST_CHANGE_MAC_REMOVE_ALWAYS_SHOW_OSK_OPTION_12355_TEST_OSK_REMEMBERS_SIZE_AND_LOCATION_AFTER_RESTART**
+
 change(mac): remove 'Always show OSK' option #12355 (TEST_OSK_REMEMBERS_SIZE_AND_LOCATION_AFTER_RESTART)
 
 Status: `Active`
@@ -104,6 +106,7 @@ Original TestLodge ID: TC293
 ---
 
 **TEST_CHANGE_MAC_REMOVE_ALWAYS_SHOW_OSK_OPTION_12355_TEST_OSK_REMAINS_HIDDEN_WITH_KEYMAN_INACTIVE**
+
 change(mac): remove 'Always show OSK' option #12355(TEST_OSK_REMAINS_HIDDEN_WITH_KEYMAN_INACTIVE)
 
 Status: `Active`
@@ -157,6 +160,7 @@ Original TestLodge ID: TC291
 ---
 
 **TEST_FEAT_MAC_BOTH_OPTION_KEYS_GENERATE_RIGHT_ALT_IF_NO_LEFT_ALT_MAPPING_12458_TEST_RALT_KEYBOARD_WITH_OPTION_KEY_COMBOS**
+
 feat(mac): both option keys generate right alt if no left alt mapping #12458(TEST_RALT_KEYBOARD_WITH_OPTION_KEY_COMBOS)
 
 Status: `Active`
@@ -211,6 +215,7 @@ Original TestLodge ID: TC286
 ---
 
 **TEST_HANDLE_PACKAGEINFO_SECTION_IN_KMP.INF_FILE**
+
 Handle PackageInfo section in kmp.inf file
 
 Status: `Active`
@@ -270,6 +275,7 @@ TC - fix(mac): handle PackageInfo section in kmp.inf file #13876
 ---
 
 **TEST_KMX_PROCESSOR_COMPLIANT_TEST_CONTROL_1_GROUP_MAC_TEXTEDIT**
+
 KMX_PROCESSOR_COMPLIANT_TEST_CONTROL_1_GROUP_MAC: TextEdit
 
 Status: `Active`
@@ -315,6 +321,7 @@ Original TestLodge ID: TC235
 ---
 
 **TEST_KMX_PROCESSOR_COMPLIANT_TEST_SCROLLLOCK_KEY_NO_RESET_GROUP_MAC_TEXTEDIT**
+
 KMX_PROCESSOR_COMPLIANT_TEST_SCROLLLOCK_KEY_NO_RESET_GROUP_MAC: TextEdit
 
 Status: `Active`
@@ -363,6 +370,7 @@ SUITE_KMX_PROCESSOR_COMPLIANT_GROUP_LINUX:
 ---
 
 **TEST_KMX_PROCESSOR_NON_COMPLIANT_TEST_CONTROL_1_GROUP_MAC_CHROME_BROWSER**
+
 KMX_PROCESSOR_NON_COMPLIANT_TEST_CONTROL_1_GROUP_MAC: Chrome Browser
 
 Status: `Deprecated`
@@ -412,6 +420,7 @@ Original TestLodge ID: TC222
 ---
 
 **TEST_KMX_PROCESSOR_NON_COMPLIANT_TEST_FRAME_KEY_RESET_NOMARKERS_GROUP_MAC_CHROME_BROWSER**
+
 KMX_PROCESSOR_NON_COMPLIANT_TEST_FRAME_KEY_RESET_NOMARKERS_GROUP_MAC: Chrome Browser
 
 Status: `Active`
@@ -463,6 +472,7 @@ Original TestLodge ID: TC225
 ---
 
 **TEST_LDML_PROCESSOR_COMPLIANT_TEST_FRAME_KEY_RESET_NO_MARKERS_MAC_TEXTEDIT**
+
 LDML_PROCESSOR_COMPLIANT_TEST_FRAME_KEY_RESET_NO_MARKERS_MAC: TextEdit
 
 Status: `Active`
@@ -512,6 +522,7 @@ Original TestLodge ID: TC266
 ---
 
 **TEST_LDML_PROCESSOR_COMPLIANT_TEST_MODIFIER_TAP_NO_RESET_GROUP_MAC_TEXTEDIT**
+
 LDML_PROCESSOR_COMPLIANT_TEST_MODIFIER_TAP_NO_RESET_GROUP_MAC: TextEdit
 
 Status: `Active`
@@ -561,6 +572,7 @@ Original TestLodge ID: TC268
 ---
 
 **TEST_LDML_PROCESSOR_NON_COMPLIANT_TEST_FRAME_KEY_RESET_MARKERS_GROUP_MAC_CHROME_BROWSER**
+
 LDML_PROCESSOR_NON_COMPLIANT_TEST_FRAME_KEY_RESET_MARKERS_GROUP_MAC: Chrome Browser
 
 Status: `Active`
@@ -611,6 +623,7 @@ Original TestLodge ID: TC250
 ---
 
 **TEST_LDML_PROCESSOR_NON_COMPLIANT_TEST_MODIFIER_TAP_NO_RESET_GROUP_MAC_CHROME_BROWSER**
+
 LDML_PROCESSOR_NON_COMPLIANT_TEST_MODIFIER_TAP_NO_RESET_GROUP_MAC: Chrome Browser
 
 Status: `Active`
@@ -662,6 +675,7 @@ Original TestLodge ID: TC253
 ---
 
 **TEST_TEST_CASE_FOR_ATOM_EDITOR_WITH_AMHARIC**
+
 Test case for ATOM editor with Amharic,
 
 Status: `Active`
@@ -719,6 +733,7 @@ Original TestLodge ID: TC115
 ---
 
 **TEST_TEST_CASE_FOR_CHROME_GOOGLE_DOCS_WITH_AMHARIC**
+
 Test case for Chrome_Google_Docs with Amharic,
 
 Status: `Active`
@@ -777,6 +792,7 @@ Original TestLodge ID: TC113
 ---
 
 **TEST_TEST_CASE_FOR_CHROME_URL_BAR_WITH_SHORTCUTS**
+
 Test case for Chrome_URL_Bar with Shortcuts,
 
 Status: `Active`
@@ -845,6 +861,7 @@ Original TestLodge ID: TC130
 ---
 
 **TEST_TEST_CASE_FOR_CHROME_WORD_ONLINE_WITH_SHORTCUTS**
+
 Test case for Chrome_Word_Online with Shortcuts,
 
 Status: `Active`
@@ -914,6 +931,7 @@ Original TestLodge ID: TC133
 ---
 
 **TEST_TEST_CASE_FOR_FIREFOX_FB_SEARCH_CONTROL_WITH_SHORTCUTS**
+
 Test case for Firefox_FB_Search_Control with Shortcuts,
 
 Status: `Active`
@@ -984,6 +1002,7 @@ Original TestLodge ID: TC140
 ---
 
 **TEST_TEST_CASE_FOR_FIREFOX_URL_BAR_WITH_AMHARIC**
+
 Test case for Firefox_URL_Bar with Amharic,
 
 Status: `Active`
@@ -1042,6 +1061,7 @@ Original TestLodge ID: TC120
 ---
 
 **TEST_TEST_CASE_FOR_FIREFOX_WORD_ONLINE_WITH_AMHARIC**
+
 Test case for Firefox_Word_Online with Amharic,
 
 Status: `Active`
@@ -1100,6 +1120,7 @@ Original TestLodge ID: TC123
 ---
 
 **TEST_TEST_CASE_FOR_LIBREOFFICE_WRITER_WITH_AMHARIC**
+
 Test case for LibreOffice Writer with Amharic,
 
 Status: `Active`
@@ -1157,6 +1178,7 @@ Original TestLodge ID: TC128
 ---
 
 **TEST_TEST_CASE_FOR_MAIL_APP_WITH_SHORTCUTS**
+
 Test case for MAIL app with Shortcuts,
 
 Status: `Active`
@@ -1223,6 +1245,7 @@ Original TestLodge ID: TC148
 ---
 
 **TEST_TEST_CASE_FOR_MESSAGES_APP_WITH_SHORTCUTS**
+
 Test case for Messages_App with Shortcuts,
 
 Status: `Active`
@@ -1290,6 +1313,7 @@ Original TestLodge ID: TC143
 ---
 
 **TEST_TEST_CASE_FOR_NOTES_APP_WITH_AMHARIC**
+
 Test case for Notes_App with Amharic,
 
 Status: `Active`
@@ -1347,6 +1371,7 @@ Original TestLodge ID: TC125
 ---
 
 **TEST_TEST_CASE_FOR_SAFARI_GOOGLE_DOCS_WITH_AMHARIC**
+
 Test case for Safari_Google_Docs with Amharic,
 
 Status: `Active`
@@ -1405,6 +1430,7 @@ Original TestLodge ID: TC118
 ---
 
 **TEST_TEST_CASE_FOR_SAFARI_URL_BAR_WITH_SHORTCUTS**
+
 Test case for Safari_URL_Bar with Shortcuts,
 
 Status: `Active`
@@ -1472,6 +1498,7 @@ Original TestLodge ID: TC135
 ---
 
 **TEST_TEST_CASE_FOR_SAFARI_WORLD_ONLINE_WITH_SHORTCUTS**
+
 Test case for Safari_World_Online with Shortcuts,
 
 Status: `Active`
@@ -1539,6 +1566,7 @@ Original TestLodge ID: TC138
 ---
 
 **TEST_TEST_CASE_FOR_TEXTEDIT_APP_WITH_SHORTCUTS**
+
 Test case for TextEdit_App with Shortcuts,
 
 Status: `Active`
