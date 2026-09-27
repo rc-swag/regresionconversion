@@ -2,7 +2,7 @@
 
 Generated from the numbered HTML/JSON regression-test export.
 
-**TEST_ADD_BACK_BUTTON_TO_ADJUST_KEYBOARD_HEIGHT_MENU**
+**TEST_347**
 
 Add back button to "Adjust Keyboard Height "menu
 
@@ -67,7 +67,7 @@ TC - fix(android): Add back button to "Adjust Keyboard Height "menu #13645
 
 ---
 
-**TEST_CANCEL_FLICKS_WHEN_BOTH_RETURNING_TO_AND_RELEASING_AT_ORIGINAL_TAP_LOCATION_TEST_FLICK_GENERAL_USE**
+**TEST_334**
 
 Cancel flicks when both returning to and releasing at original tap location_TEST_FLICK_GENERAL_USE
 
@@ -127,7 +127,7 @@ TC - change(web): cancel flicks when both returning to and releasing at original
 
 ---
 
-**TEST_CANCEL_FLICKS_WHEN_BOTH_RETURNING_TO_AND_RELEASING_AT_ORIGINAL_TAP_LOCATION_TEST_FLICK_RESET_FULL**
+**TEST_337**
 
 Cancel flicks when both returning to and releasing at original tap location_TEST_FLICK_RESET_FULL
 
@@ -191,7 +191,7 @@ TC - change(web): cancel flicks when both returning to and releasing at original
 
 ---
 
-**TEST_CHECK_NETWORK_ACCESS_BEFORE_TRYING_TO_DOWNLOAD_KEYBOARD**
+**TEST_332**
 
 Check network access before trying to download keyboard
 
@@ -259,7 +259,7 @@ fix(android): Check network access before trying to download keyboard #13978
 
 ---
 
-**TEST_DON_T_REPORT_MISSING_KMP.JSON**
+**TEST_344**
 
 Don't report missing kmp.json
 
@@ -321,7 +321,7 @@ https://darcywong00.github.io/examples/invalid/khmer10/khmer10_noJson.kmp
 
 ---
 
-**TEST_FEAT_ANDROID_ADD_CONTROLS_FOR_AUTO-CORRECT_12443**
+**TEST_148**
 
 feat(android): Add controls for auto-correct #12443
 
@@ -395,7 +395,7 @@ Original TestLodge ID: TC283
 
 ---
 
-**TEST_FEAT_ANDROID_ENHANCE_HOW_ENTER_KEY_IS_HANDLED_IN_APPS_12125**
+**TEST_142**
 
 feat(android): Enhance how ENTER key is handled in apps #12125
 
@@ -520,7 +520,7 @@ Test_Twitter_Search:
 
 ---
 
-**TEST_FIX_ANDROID_AUTO-MIRROR_BACK_AND_FORWARD_ARROWS_FOR_RTL_SUPPORT_12227**
+**TEST_144**
 
 fix(android): Auto-mirror back and forward arrows for RTL support ? #12227
 
@@ -599,7 +599,7 @@ Original TestLodge ID: TC278
 
 ---
 
-**TEST_FIX_ANDROID_AUTO-MIRROR_INCREMENT_AND_DECREMENT_ARROWS_FOR_RTL_SUPPORT_12230**
+**TEST_145**
 
 fix(android): Auto-mirror increment and decrement arrows for RTL support ? #12230
 
@@ -670,7 +670,7 @@ Original TestLodge ID: TC279
 
 ---
 
-**TEST_FIX_ANDROID_HIDE_SUGGESTION_BANNER_ON_PASSWORD_FIELDS_12442**
+**TEST_147**
 
 fix(android): Hide suggestion banner on password fields #12442
 
@@ -740,7 +740,7 @@ Original TestLodge ID: TC282
 
 ---
 
-**TEST_HANDLE_BANNER_OVERRIDES_INDEPENDENTLY_WHEN_DEVICE_IS_LOCKED_AND_UNLOCKED**
+**TEST_327**
 
 Handle banner overrides independently when device is locked and unlocked
 
@@ -823,7 +823,7 @@ TC - fix(android): Handle banner overrides independently when device is locked a
 
 ---
 
-**TEST_KEYMAN_WEBSITE_APPEARED_WHEN_CLICKING_THE_BUTTON_ON_THE_KEYBOARD_SETTINGS_PAGE**
+**TEST_321**
 
 Keyman website appeared when clicking the "+" button on the keyboard settings page.
 
@@ -865,7 +865,7 @@ No steps recorded.
 
 ---
 
-**TEST_RE-ORDER_HOST_PAGE_SCRIPT_LOAD_SO_SENTRY_CAN_REPORT_SCRIPT_LOAD_FAILURES**
+**TEST_329**
 
 Re-order host page script load so Sentry can report script load failures
 
@@ -937,7 +937,7 @@ TC - change(android): re-order host page script load so Sentry can report script
 
 ---
 
-**TEST_REVERT_HOW_KEYBOARD_PICKER_MENU_LAUNCHES**
+**TEST_307**
 
 Revert how keyboard picker menu launches
 
@@ -1003,7 +1003,7 @@ fix(android/engine): Revert how keyboard picker menu launches #12986
 
 ---
 
-**TEST_TC_-_FIX_ANDROID_CATCH_WEBVIEW_EXCEPTIONS_AND_PROMPT_USER_TO_INSTALL_WEBVIEW_TEST_INSTALL_CHROME**
+**TEST_319**
 
 TC - fix(android): Catch WebView exceptions and prompt user to install WebView_TEST_INSTALL_CHROME
 
@@ -1064,7 +1064,7 @@ TC - fix(android): Catch WebView exceptions and prompt user to install WebView_T
 
 ---
 
-**TEST_TEST_CASE_FOR_ADJUST_THE_OSK_HEIGHT_FOR_THE_CURRENT_ORIENTATION_PORTRAIT_OR_LANDSCAPE**
+**TEST_117**
 
 Test case for adjust the OSK height for the current orientation (portrait or landscape),
 
@@ -1132,7 +1132,7 @@ Original TestLodge ID: TC67
 
 ---
 
-**TEST_TEST_CASE_FOR_BROKEN_SUGGESTION_SELECTING_THE_UNDO_SUGGESTION_BREAKS_SUBSEQUENT_INPUT_7167**
+**TEST_137**
 
 Test case for BROKEN_SUGGESTION selecting the "undo" suggestion breaks subsequent input (7167)
 
@@ -1191,7 +1191,7 @@ Original TestLodge ID: TC87
 
 ---
 
-**TEST_TEST_CASE_FOR_CHANGING_DISPLAY_LANGUAGE**
+**TEST_116**
 
 Test case for CHANGING_DISPLAY_LANGUAGE,
 
@@ -1261,7 +1261,7 @@ Original TestLodge ID: TC66
 
 ---
 
-**TEST_TEST_CASE_FOR_CLEARING_TEXT_IN_THE_KEYMAN_TEXT_PANE**
+**TEST_113**
 
 Test case for Clearing text in the Keyman text pane,
 
@@ -1322,7 +1322,7 @@ Original TestLodge ID: TC63
 
 ---
 
-**TEST_TEST_CASE_FOR_FLICKER_BANNER_UNNECESSARY_FLICKER_ON_BANNER_WHILE_TYPING_7162**
+**TEST_135**
 
 Test case for FLICKER_BANNER unnecessary flicker on banner while typing (7162)
 
@@ -1376,7 +1376,7 @@ Original TestLodge ID: TC85
 
 ---
 
-**TEST_TEST_CASE_FOR_KEYMAN_SETTINGS_MENU**
+**TEST_109**
 
 Test case for Keyman Settings menu,
 
@@ -1473,7 +1473,7 @@ Original TestLodge ID: TC59
 
 ---
 
-**TEST_TEST_CASE_FOR_LANDSCAPE_TO_PORTRAIT_ORIENTATION_IN_THE_KEYMAN_APP**
+**TEST_124**
 
 Test case for Landscape to Portrait Orientation in the Keyman app,
 
@@ -1531,7 +1531,7 @@ Original TestLodge ID: TC74
 
 ---
 
-**TEST_TEST_CASE_FOR_LANDSCAPE_TO_PORTRAIT_ORIENTATION_IN_THE_KEYMAN_SYSTEM_KEYBOARD**
+**TEST_130**
 
 Test case for Landscape to Portrait Orientation in the Keyman System Keyboard,
 
@@ -1589,7 +1589,7 @@ Original TestLodge ID: TC80
 
 ---
 
-**TEST_TEST_CASE_FOR_PORTRAIT_TO_LANDSCAPE_ORIENTATION_IN_THE_KEYMAN_APP**
+**TEST_123**
 
 Test case for Portrait to Landscape Orientation in the Keyman app,
 
@@ -1647,7 +1647,7 @@ Original TestLodge ID: TC73
 
 ---
 
-**TEST_TEST_CASE_FOR_PORTRAIT_TO_LANDSCAPE_ORIENTATION_IN_THE_KEYMAN_SYSTEM_KEYBOARD**
+**TEST_129**
 
 Test case for Portrait to Landscape Orientation in the Keyman System Keyboard,
 
@@ -1705,7 +1705,7 @@ Original TestLodge ID: TC79
 
 ---
 
-**TEST_TEST_CASE_FOR_PRESS_AND_HOLD_BACKSPACE_HOLDING_BACKSPACE_APPEARS_TO_DESYNC_CONTEXT_BETWEEN_WEB_AND_APP_7172**
+**TEST_140**
 
 Test case for Press_And_Hold_Backspace (Holding backspace appears to desync context between web and app (7172),
 
@@ -1761,7 +1761,7 @@ Original TestLodge ID: TC90
 
 ---
 
-**TEST_TEST_CASE_FOR_RAPID_TYPING_RAPID_TYPING_ON_FIRST_CAPS_LETTER_SOMETIMES_GIVES_TWO_CAP_LETTERS_7173**
+**TEST_141**
 
 Test case for Rapid_Typing (Rapid typing on first caps letter sometimes gives TWo cap letters) (7173),
 
@@ -1816,7 +1816,7 @@ Original TestLodge ID: TC91
 
 ---
 
-**TEST_TEST_CASE_FOR_SHARING_A_TEXT_TO_AN_EXTERNAL_APPLICATION_EG._NOTES_APP**
+**TEST_110**
 
 Test case for sharing a text to an external application (eg., Notes App),
 
@@ -1879,7 +1879,7 @@ Original TestLodge ID: TC60
 
 ---
 
-**TEST_TEST_CASE_FOR_SPACEBAR_CAPTION**
+**TEST_118**
 
 Test case for SPACEBAR_CAPTION,
 
@@ -1960,7 +1960,7 @@ Original TestLodge ID: TC68
 
 ---
 
-**TEST_TEST_CASE_FOR_TYPE_ON_THE_OSK_WOULD_SHOW_THE_EXPECTED_OUTPUT_ENGLISH_EUROLATIN_SIL**
+**TEST_121**
 
 Test case for type on the OSK would show the expected output English(EuroLatin SIL),
 
@@ -2034,7 +2034,7 @@ Original TestLodge ID: TC71
 
 ---
 
-**TEST_TEST_CASE_FOR_TYPE_ON_THE_SYSTEM_KEYBOARD_WOULD_SHOW_THE_EXPECTED_OUTPUT_ENGLISH_EUROLATIN_SIL**
+**TEST_127**
 
 Test case for type on the System Keyboard would show the expected output English(EuroLatin SIL),
 
@@ -2108,7 +2108,7 @@ Original TestLodge ID: TC77
 
 ---
 
-**TEST_TEST_CASE_FOR_VERIFY_OSK_IS_VISIBLE_AND_FILLS_THE_WIDTH_THE_BOTTOM_OF_THE_SCREEN_IN_LANDSCAPE_ORIENTATION_ENGLISH_EUROLATIN_SIL**
+**TEST_120**
 
 Test case for verify OSK is visible and fills the width the bottom of the screen in Landscape orientation, [English (EuroLatin (SIL)],
 
@@ -2197,7 +2197,7 @@ Original TestLodge ID: TC70
 
 ---
 
-**TEST_TEST_CASE_FOR_VERIFYING_TEXT_SIZE_IN_THE_KEYMAN_TEXT_PANE**
+**TEST_112**
 
 Test case for verifying text size in the Keyman Text pane ,
 
@@ -2261,7 +2261,7 @@ Original TestLodge ID: TC62
 
 ---
 
-**TEST_TEST_CASE_FOR_VERIFYING_THE_EXTERNAL_EUROPEAN_AZERTY_KEYBOARD**
+**TEST_132**
 
 Test case for verifying the External european AZERTY Keyboard,
 
@@ -2325,7 +2325,7 @@ Original TestLodge ID: TC82
 
 ---
 
-**TEST_TEST_CASE_FOR_VERIFYING_THE_INFORMATION_DOCUMENT_IN_KEYMAN**
+**TEST_114**
 
 Test case for verifying the Information document in Keyman,
 
@@ -2392,7 +2392,7 @@ Original TestLodge ID: TC64
 
 ---
 
-**TEST_TEST_CASE_FOR_VERIFYING_THE_SYSTEM_KEYBOARD_IN_THE_LANDSCAPE_MODE_ENGLISH_EUROLATIN_SIL**
+**TEST_126**
 
 Test case for verifying the System Keyboard in the Landscape mode (English (EuroLatin SIL),
 
@@ -2481,7 +2481,7 @@ Original TestLodge ID: TC76
 
 ---
 
-**TEST_TEST_CASE_FOR_VERIFYING_KMP_DISTRIBUTION**
+**TEST_133**
 
 Test case for verifying  KMP distribution,
 
@@ -2553,7 +2553,7 @@ Original TestLodge ID: TC83
 
 ---
 
-**TEST_TEST_CASE_FOR_GET_STARTED_MENU_FROM_A_FRESH_INSTALLATION**
+**TEST_107**
 
 Test case for ‘Get Started’ menu from a fresh installation,
 
@@ -2629,7 +2629,7 @@ Original TestLodge ID: TC57
 
 ---
 
-**TEST_TEST_CASE_TO_VERIFY_HISTORY_FILE_THAT_CONTAINS_ALL_THE_CURRENT_CHANGES**
+**TEST_106**
 
 Test case to verify History file that contains all the current changes,
 

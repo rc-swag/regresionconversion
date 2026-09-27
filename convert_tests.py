@@ -86,7 +86,11 @@ def attribute_values(metadata: dict, name: str) -> list[str]:
         return [str(value).strip() for value in values if str(value).strip()]
     return [str(values).strip()] if str(values).strip() else []
 
-
+# This use to consider take the 'name' and replace white space with underscore 
+# and make it upper case. Now it also replaces '&' with ' AND ' and removes 
+# any other special characters except for '.', '_', and '-'.
+# This has been maintained however are now just passing in the ID of the test as this
+# matches with how the Test team identified errors.
 def slugify_name(name: str) -> str:
     normalized = name.upper().replace("&", " AND ")
     normalized = re.sub(r"[^A-Z0-9._-]+", "_", normalized)
@@ -169,7 +173,7 @@ def load_record(stem: str, html_path: Path, json_path: Path, allow_multiple_prod
 def assign_test_ids(records: Iterable[TestRecord]) -> None:
     used: set[str] = set()
     for record in sorted(records, key=lambda item: (item.product.casefold(), item.name.casefold(), item.source_id)):
-        base_id = f"TEST_{slugify_name(record.name)}"
+        base_id = f"TEST_{slugify_name(record.source_id)}"
         test_id = base_id
         if test_id in used:
             test_id = f"{base_id}_{slugify_name(record.source_id)}"

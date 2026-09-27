@@ -2,7 +2,7 @@
 
 Generated from the numbered HTML/JSON regression-test export.
 
-**TEST_EVALUATE_AND_APPLY_NPM_AUDIT_FIX_WITHOUT_FORCED_CHANGES**
+**TEST_339**
 
 Evaluate and apply npm audit fix (without forced changes)
 
@@ -71,7 +71,7 @@ TC - maint(common): evaluate and apply npm audit fix (without forced changes) #1
 
 ---
 
-**TEST_FEAT_DEVELOPER_KMC_GENERATE_11014_TEST_KEYMAN_KEYBOARD**
+**TEST_258**
 
 feat(developer): kmc generate #11014(TEST_KEYMAN_KEYBOARD)
 
@@ -135,7 +135,7 @@ kmc generate keyman-keyboard kmnkeyboard
 
 ---
 
-**TEST_FEAT_DEVELOPER_KMC_GENERATE_11014_TEST_LEXICAL_MODEL**
+**TEST_260**
 
 feat(developer): kmc generate #11014(TEST_LEXICAL_MODEL)
 
@@ -199,7 +199,7 @@ kmc generate lexical-model en.lexicalmodeluniq
 
 ---
 
-**TEST_FEAT_DEVELOPER_KMC-COPY_12555_TEST_COPY_MODELS**
+**TEST_253**
 
 feat(developer): kmc-copy #12555 (TEST_COPY_MODELS)
 
@@ -260,7 +260,7 @@ E.g kmc copy C:\Documents\GitHub\lexical-models\release\sil\sil.cmo.bw\sil.cmo.b
 
 ---
 
-**TEST_FIX_DEVELOPER_HANDLE_KM_CORE_IT_INVALIDATE_CONTEXT_IN_DEBUGGER_11488**
+**TEST_251**
 
 fix(developer): handle KM_CORE_IT_INVALIDATE_CONTEXT in debugger #11488
 
@@ -335,7 +335,7 @@ HKLM\Software\Wow6432Node\Keyman
 
 ---
 
-**TEST_FIX_DEVELOPER_HANDLE_PASTE_OF_TSV_INTO_WORDLIST_GRID_12594_TEST_PASTE_SIMPLE_STRING**
+**TEST_256**
 
 fix(developer): handle paste of TSV into Wordlist grid #12594(TEST_PASTE_SIMPLE_STRING)
 
@@ -396,7 +396,7 @@ Original TestLodge ID: TC301
 
 ---
 
-**TEST_REMOVE_REDUNDANT_NAME_AND_RTL_FIELDS_FROM_.KPS_LEXICALMODEL_TEST_NEW_PROJECT**
+**TEST_362**
 
 Remove redundant Name and RTL fields from .kps LexicalModel_TEST_NEW_PROJECT
 
@@ -455,7 +455,7 @@ TC - fix(developer): remove redundant Name and RTL fields from .kps LexicalModel
 
 ---
 
-**TEST_TC_-_FEAT_DEVELOPER_IMPROVE_COMPILER_MESSAGES_AND_USER_INTERFACE_TEST_MESSAGE_RIGHT-CLICK**
+**TEST_314**
 
 TC - feat(developer): improve compiler messages and user interface_TEST_MESSAGE_RIGHT-CLICK
 
@@ -515,7 +515,7 @@ TC - feat(developer): improve compiler messages and user interface_TEST_MESSAGE_
 
 ---
 
-**TEST_TC_-_FIX_DEVELOPER_SUPPORT_AND_DISPLAYMAP_FONT_IN_WEB_DEBUGGER_TEST_DISPLAYMAP_FONT**
+**TEST_317**
 
 TC - fix(developer): support &displayMap font in web debugger_TEST_DISPLAYMAP_FONT
 
@@ -584,7 +584,7 @@ TC - fix(developer): support &displayMap font in web debugger_TEST_DISPLAYMAP_FO
 
 ---
 
-**TEST_TEST_CASE_FOR_DEBUGGER_PAUSE**
+**TEST_243**
 
 Test case for Debugger_Pause,
 
@@ -651,7 +651,7 @@ HKLM\Software\Wow6432Node\Keyman
 
 ---
 
-**TEST_TEST_CASE_FOR_DEBUGGER_STARTS**
+**TEST_241**
 
 Test case for Debugger_Starts ,
 
@@ -718,7 +718,7 @@ HKLM\Software\Wow6432Node\Keyman
 
 ---
 
-**TEST_TEST_CASE_FOR_SERVER_KEEP_ALIVE**
+**TEST_248**
 
 Test Case for Server_Keep_Alive,
 
@@ -790,7 +790,7 @@ HKLM\Software\Wow6432Node\Keyman
 
 ---
 
-**TEST_TEST_CASE_FOR_SERVER_STARTS**
+**TEST_246**
 
 Test Case for Server_Starts,
 

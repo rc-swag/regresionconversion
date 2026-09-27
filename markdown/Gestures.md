@@ -2,7 +2,7 @@
 
 Generated from the numbered HTML/JSON regression-test export.
 
-**TEST_TEST_CASE_FOR_10_KEY_DIACRITICS**
+**TEST_288**
 
 Test case for 10_KEY_DIACRITICS,
 
@@ -71,7 +71,7 @@ Original TestLodge ID: TC189
 
 ---
 
-**TEST_TEST_CASE_FOR_10_KEY_ROTA**
+**TEST_287**
 
 Test case for 10_KEY_ROTA,
 
@@ -141,7 +141,7 @@ Original TestLodge ID: TC188
 
 ---
 
-**TEST_TEST_CASE_FOR_ALTERNATING_SHIFT_AND_KEY**
+**TEST_297**
 
 Test case for ALTERNATING_SHIFT_AND_KEY,
 
@@ -208,7 +208,7 @@ Original TestLodge ID: TC198
 
 ---
 
-**TEST_TEST_CASE_FOR_APP_10_KEY_DIACRITICS**
+**TEST_289**
 
 Test case for APP_10_KEY_DIACRITICS,
 
@@ -276,7 +276,7 @@ Original TestLodge ID: TC190
 
 ---
 
-**TEST_TEST_CASE_FOR_BASIC_MODIPRESS_HOLD**
+**TEST_292**
 
 Test case for BASIC_MODIPRESS_HOLD,
 
@@ -340,7 +340,7 @@ Original TestLodge ID: TC193
 
 ---
 
-**TEST_TEST_CASE_FOR_BASIC_SIMPLE_SHIFT**
+**TEST_290**
 
 Test case for BASIC_SIMPLE_SHIFT,
 
@@ -402,7 +402,7 @@ Original TestLodge ID: TC191
 
 ---
 
-**TEST_TEST_CASE_FOR_DELAYED_SUBKEY**
+**TEST_294**
 
 Test case for DELAYED_SUBKEY,
 
@@ -470,7 +470,7 @@ Original TestLodge ID: TC195
 
 ---
 
-**TEST_TEST_CASE_FOR_DOUBLETAP_CAPS**
+**TEST_295**
 
 Test case for DOUBLETAP_CAPS,
 
@@ -534,7 +534,7 @@ Original TestLodge ID: TC196
 
 ---
 
-**TEST_TEST_CASE_FOR_FLICK_DURING_MODIPRESS**
+**TEST_302**
 
 Test case for FLICK_DURING_MODIPRESS,
 
@@ -608,7 +608,7 @@ Original TestLodge ID: TC203
 
 ---
 
-**TEST_TEST_CASE_FOR_FLICK_LOCKING**
+**TEST_300**
 
 Test case for FLICK_LOCKING,
 
@@ -688,7 +688,7 @@ Original TestLodge ID: TC201
 
 ---
 
-**TEST_TEST_CASE_FOR_NUMERIC_FROM_SHIFT**
+**TEST_293**
 
 Test case for NUMERIC_FROM_SHIFT,
 
@@ -761,7 +761,7 @@ Original TestLodge ID: TC194
 
 ---
 
-**TEST_TEST_CASE_OF_BASIC_MODIPRESS**
+**TEST_291**
 
 Test case of BASIC_MODIPRESS,
 
