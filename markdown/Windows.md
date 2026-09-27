@@ -2,7 +2,7 @@
 
 Generated from the numbered HTML/JSON regression-test export.
 
-**TEST_FEAT_WINDOWS_ADD_RIGHT_MODIFIER_INCLUDED_IN_HOTKEY_OPTIONAL_FUNCTIONALITY_12259_TEST_LANGUAGE_HOTKEYS_LEFT_SIDE**
+**TEST_61**
 
 feat(windows): add right modifier included in hotkey optional functionality #12259(TEST_LANGUAGE_HOTKEYS_LEFT_SIDE)
 
@@ -70,7 +70,7 @@ Original TestLodge ID: TC295
 
 ---
 
-**TEST_HANDLE_KEYBOARD_PACKAGE_NOT_DOWNLOADED**
+**TEST_309**
 
 Handle keyboard package not downloaded
 
@@ -148,7 +148,7 @@ TC - fix(windows): handle keyboard package not downloaded #12948
 
 ---
 
-**TEST_KMSHELL_SWITCH_HANDLING_FOR_THE_INSTALLING_STATE_TEST_INSTALL_UPDATE**
+**TEST_304**
 
 kmshell switch handling for the installing state_TEST_INSTALL_UPDATE
 
@@ -224,7 +224,7 @@ TC - feat(windows): kmshell switch handling for the installing state_TEST_INSTAL
 
 ---
 
-**TEST_KMX_PROCESSOR_COMPLIANT_TEST_FRAME_KEY_RESET_MARKERS_GROUP_WINDOWS_WORDPAD**
+**TEST_46**
 
 KMX_PROCESSOR_COMPLIANT_TEST_FRAME_KEY_RESET_MARKERS_GROUP_WINDOWS: WordPad
 
@@ -272,7 +272,7 @@ Original TestLodge ID: TC232
 
 ---
 
-**TEST_KMX_PROCESSOR_COMPLIANT_TEST_SCROLLLOCK_KEY_NO_RESET_GROUP_WINDOWS_WORDPAD**
+**TEST_48**
 
 KMX_PROCESSOR_COMPLIANT_TEST_SCROLLLOCK_KEY_NO_RESET_GROUP_WINDOWS: WordPad
 
@@ -320,7 +320,7 @@ Original TestLodge ID: TC234
 
 ---
 
-**TEST_KMX_PROCESSOR_NON_COMPLIANT_TEST_CONTROL_1_GROUP_WINDOWS_TEXTEDITOR**
+**TEST_41**
 
 KMX_PROCESSOR_NON_COMPLIANT_TEST_CONTROL_1_GROUP_WINDOWS: TextEditor
 
@@ -369,7 +369,7 @@ Original TestLodge ID: TC218
 
 ---
 
-**TEST_KMX_PROCESSOR_NON_COMPLIANT_TEST_FRAME_KEY_RESET_NOMARKERS_GROUP_WINDOWS_TEXTEDITOR**
+**TEST_43**
 
 KMX_PROCESSOR_NON_COMPLIANT_TEST_FRAME_KEY_RESET_NOMARKERS_GROUP_WINDOWS: TextEditor
 
@@ -419,7 +419,7 @@ Original TestLodge ID: TC220
 
 ---
 
-**TEST_LDML_PROCESSOR_COMPLIANT_TEST_FRAME_KEY_RESET_NO_MARKERS_WINDOWS_WORDPAD**
+**TEST_56**
 
 LDML_PROCESSOR_COMPLIANT_TEST_FRAME_KEY_RESET_NO_MARKERS_WINDOWS: WordPad
 
@@ -469,7 +469,7 @@ Original TestLodge ID: TC261
 
 ---
 
-**TEST_LDML_PROCESSOR_COMPLIANT_TEST_MODIFIER_TAP_NO_RESET_GROUP_WINDOWS_WORDPAD**
+**TEST_58**
 
 LDML_PROCESSOR_COMPLIANT_TEST_MODIFIER_TAP_NO_RESET_GROUP_WINDOWS: WordPad
 
@@ -519,7 +519,7 @@ Original TestLodge ID: TC263
 
 ---
 
-**TEST_LDML_PROCESSOR_NON_COMPLIANT_TEST_FRAME_KEY_RESET_NO_MARKERS_GROUP_WINDOWS_TEXTEDITOR**
+**TEST_51**
 
 LDML_PROCESSOR_NON_COMPLIANT_TEST_FRAME_KEY_RESET_NO_MARKERS_GROUP_WINDOWS: TextEditor
 
@@ -569,7 +569,7 @@ Original TestLodge ID: TC246
 
 ---
 
-**TEST_LDML_PROCESSOR_NON_COMPLIANT_TEST_MODIFIER_TAP_NO_RESET_GROUP_WINDOWS_TEXTEDITOR**
+**TEST_53**
 
 LDML_PROCESSOR_NON_COMPLIANT_TEST_MODIFIER_TAP_NO_RESET_GROUP_WINDOWS: TextEditor
 
@@ -619,7 +619,7 @@ Original TestLodge ID: TC248
 
 ---
 
-**TEST_TEST_CASE_FOR_WINDOWS_CHROME_86.0_NO_LONGER_ACCEPTS_BACKSPACE_3698**
+**TEST_38**
 
 Test case for (windows): Chrome 86.0 no longer accepts backspace #3698,
 
@@ -676,7 +676,7 @@ Original TestLodge ID: TC205
 
 ---
 
-**TEST_TEST_CASE_FOR_CAPS_CAPSONLY-2**
+**TEST_17**
 
 Test case for Caps (CapsOnly-2),
 
@@ -734,7 +734,7 @@ Original TestLodge ID: TC17
 
 ---
 
-**TEST_TEST_CASE_FOR_CAPS_ALWAYS_OFF_CAPSOFF-1**
+**TEST_11**
 
 Test case for Caps Always off (Capsoff-1 ),
 
@@ -793,7 +793,7 @@ Original TestLodge ID: TC11
 
 ---
 
-**TEST_TEST_CASE_FOR_CAPS_DOESN_T_TOGGLE_CAPSONLY-3**
+**TEST_18**
 
 Test case for Caps doesn’t toggle (CapsOnly-3),
 
@@ -852,7 +852,7 @@ Original TestLodge ID: TC18
 
 ---
 
-**TEST_TEST_CASE_FOR_CAPS_LOCK_STAYS_OFF_CAPSOFF-2**
+**TEST_12**
 
 Test case for Caps lock stays off (capsoff-2),
 
@@ -913,7 +913,7 @@ Original TestLodge ID: TC12
 
 ---
 
-**TEST_TEST_CASE_FOR_CAPS_LOCK_WHILE_HOLDING_CAPSLOCK_KEY_CAPSOFF-4**
+**TEST_14**
 
 Test case for Caps lock while holding capslock key (capsoff-4),
 
@@ -972,7 +972,7 @@ Original TestLodge ID: TC14
 
 ---
 
-**TEST_TEST_CASE_FOR_CAPSLOCK_IGNORED_FOR_NUMBERS_CAPSLOCK-3**
+**TEST_8**
 
 Test case for Capslock ignored for numbers (capslock-3),
 
@@ -1028,7 +1028,7 @@ Original TestLodge ID: TC08
 
 ---
 
-**TEST_TEST_CASE_FOR_DEAD_CONTEXT_FRAME_KEY_10061**
+**TEST_36**
 
 Test case for DEAD_CONTEXT_FRAME_KEY(#10061),
 
@@ -1099,7 +1099,7 @@ Original TestLodge ID: TC187
 
 ---
 
-**TEST_TEST_CASE_FOR_DEADKEY_AND_CONTEXT_10061**
+**TEST_34**
 
 Test case for DEADKEY_AND_CONTEXT, (#10061),
 
@@ -1158,7 +1158,7 @@ Original TestLodge ID: TC34
 
 ---
 
-**TEST_TEST_CASE_FOR_DOUBLE_PROCESSING_FIREFOX_TSF**
+**TEST_21**
 
 Test case for Double_Processing_Firefox(TSF),
 
@@ -1233,7 +1233,7 @@ Original TestLodge ID: TC21
 
 ---
 
-**TEST_TEST_CASE_FOR_DOUBLE_PROCESSING_NOTEPAD_TSF**
+**TEST_23**
 
 Test case for Double_Processing_Notepad (TSF),
 
@@ -1291,7 +1291,7 @@ Original TestLodge ID: TC23
 
 ---
 
-**TEST_TEST_CASE_FOR_DOUBLE_PROCESSING_SEARCHBAR_TSF**
+**TEST_22**
 
 Test case for Double_Processing_Searchbar(TSF),
 
@@ -1349,7 +1349,7 @@ Original TestLodge ID: TC22
 
 ---
 
-**TEST_TEST_CASE_FOR_IMSAMPLE_BACKSPACE**
+**TEST_25**
 
 Test case for IMSAMPLE_BACKSPACE:
 
@@ -1422,7 +1422,7 @@ Original TestLodge ID: TC25
 
 ---
 
-**TEST_TEST_CASE_FOR_IMSAMPLE_INPUT_CONT**
+**TEST_24**
 
 Test case for IMSAMPLE_INPUT,CONT,
 
@@ -1495,7 +1495,7 @@ Original TestLodge ID: TC24
 
 ---
 
-**TEST_TEST_CASE_FOR_IMSAMPLE_KEYBOARD_IM_WINDOW**
+**TEST_26**
 
 Test case for IMSAMPLE_KEYBOARD_IM_WINDOW,
 
@@ -1567,7 +1567,7 @@ Original TestLodge ID: TC26
 
 ---
 
-**TEST_TEST_CASE_FOR_INSTALL_KEYMAN**
+**TEST_1**
 
 Test case for INSTALL Keyman
 
@@ -1640,7 +1640,7 @@ Original TestLodge ID: TC01
 
 ---
 
-**TEST_TEST_CASE_FOR_INSTALL_PKG_DISK**
+**TEST_3**
 
 Test case for INSTALL_PKG_DISK,
 
@@ -1709,7 +1709,7 @@ Original TestLodge ID: TC03
 
 ---
 
-**TEST_TEST_CASE_FOR_INSTALLING_OFFLINE_BUILD_PR_10000**
+**TEST_35**
 
 Test case for installing offline build (PR #10000):
 
@@ -1760,7 +1760,7 @@ Original TestLodge ID: TC186
 
 ---
 
-**TEST_TEST_CASE_FOR_KEYBOARD_INSTALLATION_REMOTE**
+**TEST_2**
 
 Test case for KEYBOARD_INSTALLATION_REMOTE,
 
@@ -1838,7 +1838,7 @@ Original TestLodge ID: TC02
 
 ---
 
-**TEST_TEST_CASE_FOR_KEYBOARD_OUTPUT**
+**TEST_4**
 
 Test Case for KEYBOARD_OUTPUT,
 
@@ -1904,7 +1904,7 @@ Original TestLodge ID: TC04
 
 ---
 
-**TEST_TEST_CASE_FOR_LOWERCASE_CAPSLOCK-5**
+**TEST_10**
 
 Test case for Lowercase (Capslock-5),
 
@@ -1960,7 +1960,7 @@ Original TestLodge ID: TC10
 
 ---
 
-**TEST_TEST_CASE_FOR_LOWERCASE_WITH_VIRTUAL_KEY_CAPSLOCK-2**
+**TEST_7**
 
 Test case for Lowercase with Virtual Key (Capslock-2),
 
@@ -2016,7 +2016,7 @@ Original TestLodge ID: TC07
 
 ---
 
-**TEST_TEST_CASE_FOR_NO_CAPS_CAPSONLY-1**
+**TEST_16**
 
 Test case for No Caps (CapsOnly-1),
 
@@ -2072,7 +2072,7 @@ Original TestLodge ID: TC16
 
 ---
 
-**TEST_TEST_CASE_FOR_NO_CAPS_LOCK_WHILE_HOLDING_CAPSLOCK_KEY_CAPSOFF-3**
+**TEST_13**
 
 Test case for No Caps lock while holding capslock key (capsoff-3),
 
@@ -2133,7 +2133,7 @@ Original TestLodge ID: TC13
 
 ---
 
-**TEST_TEST_CASE_FOR_ON_SCREEN_KEYBOARD**
+**TEST_5**
 
 Test Case for ON_SCREEN_KEYBOARD,
 
@@ -2192,7 +2192,7 @@ Original TestLodge ID: TC05
 
 ---
 
-**TEST_TEST_CASE_FOR_OPTION_STORE**
+**TEST_31**
 
 Test case for OPTION_STORE,
 
@@ -2251,7 +2251,7 @@ Original TestLodge ID: TC31
 
 ---
 
-**TEST_TEST_CASE_FOR_OUTPUT_KEYSTROKE_10065**
+**TEST_32**
 
 Test case for OUTPUT_KEYSTROKE (#10065)
 
@@ -2310,7 +2310,7 @@ Original TestLodge ID: TC32
 
 ---
 
-**TEST_TEST_CASE_FOR_OUTPUT_KEYSTROKE_INVALID_CONTEXT_10061**
+**TEST_33**
 
 Test case for OUTPUT_KEYSTROKE_INVALID_CONTEXT,(#10061),
 
@@ -2373,7 +2373,7 @@ Original TestLodge ID: TC33
 
 ---
 
-**TEST_TEST_CASE_FOR_SHIFT_BY_ITSELF_TURNS_OFF_CAPSONLY-5**
+**TEST_20**
 
 Test case for Shift by itself turns off (CapsOnly-5),
 
@@ -2432,7 +2432,7 @@ Original TestLodge ID: TC20
 
 ---
 
-**TEST_TEST_CASE_FOR_SHIFT_TURNS_OFF_CAPSONLY-4**
+**TEST_19**
 
 Test case for Shift turns off (CapsOnly-4),
 
@@ -2490,7 +2490,7 @@ Original TestLodge ID: TC19
 
 ---
 
-**TEST_TEST_CASE_FOR_SIMPLIFIED_CHINESE_BACKSPACE_1**
+**TEST_29**
 
 Test case for SIMPLIFIED_CHINESE_BACKSPACE_1:
 
@@ -2552,7 +2552,7 @@ Original TestLodge ID: TC29
 
 ---
 
-**TEST_TEST_CASE_FOR_SIMPLIFIED_CHINESE_BACKSPACE_2**
+**TEST_30**
 
 Test case for SIMPLIFIED_CHINESE_BACKSPACE_2:
 
@@ -2614,7 +2614,7 @@ Original TestLodge ID: TC30
 
 ---
 
-**TEST_TEST_CASE_FOR_SIMPLIFIED_CHINESE_MULTIPLE**
+**TEST_28**
 
 Test case for SIMPLIFIED_CHINESE_MULTIPLE:
 
@@ -2674,7 +2674,7 @@ Original TestLodge ID: TC28
 
 ---
 
-**TEST_TEST_CASE_FOR_SIMPLIFIED_CHINESE_SINGLE**
+**TEST_27**
 
 Test case for SIMPLIFIED_CHINESE_SINGLE,
 
@@ -2734,7 +2734,7 @@ Original TestLodge ID: TC27
 
 ---
 
-**TEST_TEST_CASE_FOR_SWITCHING_TURNS_OFF_CAPS_LOCK_CAPSOFF-5**
+**TEST_15**
 
 Test case for switching turns off caps lock (capsoff-5),
 
@@ -2794,7 +2794,7 @@ Original TestLodge ID: TC15
 
 ---
 
-**TEST_TEST_CASE_FOR_UPPERCASE_CAPSLOCK-4**
+**TEST_9**
 
 Test case for UpperCase (Capslock-4),
 
@@ -2850,7 +2850,7 @@ Original TestLodge ID: TC09
 
 ---
 
-**TEST_TEST_CASE_FOR_UPPERCASE_WITH_VIRTUAL_KEY_CAPSLOCK-1**
+**TEST_6**
 
 Test case for Uppercase with Virtual key (Capslock-1) ,
 
@@ -2906,7 +2906,7 @@ Original TestLodge ID: TC06
 
 ---
 
-**TEST_UI_LAYOUT_FOR_UPDATE_TAB_TEST_UI_UPDATES_KBD**
+**TEST_324**
 
 UI layout for update tab_TEST_UI_UPDATES_KBD
 

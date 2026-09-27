@@ -24,14 +24,14 @@ class ConverterTests(unittest.TestCase):
             },
         )
 
-    def test_assign_test_ids_adds_source_id_for_collisions(self):
+    def test_assign_test_ids_uses_source_id(self):
         first = convert_tests.TestRecord("1", "Same test", "Windows", "", "", "", "", "", {}, "1.html", "1.JSON")
         second = convert_tests.TestRecord("2", "Same test", "Windows", "", "", "", "", "", {}, "2.html", "2.JSON")
 
         convert_tests.assign_test_ids([second, first])
 
-        self.assertEqual(first.test_id, "TEST_SAME_TEST")
-        self.assertEqual(second.test_id, "TEST_SAME_TEST_2")
+        self.assertEqual(first.test_id, "TEST_1")
+        self.assertEqual(second.test_id, "TEST_2")
 
     def test_convert_rejects_multiple_products_without_writing(self):
         with tempfile.TemporaryDirectory() as directory:
