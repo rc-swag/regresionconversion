@@ -222,7 +222,12 @@ def render_products(records: list[TestRecord]) -> dict[str, str]:
         grouped[record.product].append(record)
     output: dict[str, str] = {}
     for product, product_records in sorted(grouped.items(), key=lambda item: item[0].casefold()):
-        product_records.sort(key=lambda item: (item.name.casefold(), item.source_id))
+        product_records.sort(
+            key=lambda item: (
+                (0, int(item.source_id)) if item.source_id.isdigit() else (1, item.source_id.casefold()),
+                item.name.casefold(),
+            )
+        )
         header = f"# {product} Regression Tests\n\nGenerated from the numbered HTML/JSON regression-test export."
         output[product] = header + "\n\n" + "\n\n---\n\n".join(render_record(record) for record in product_records) + "\n"
     return output

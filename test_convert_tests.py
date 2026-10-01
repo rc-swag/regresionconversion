@@ -33,6 +33,15 @@ class ConverterTests(unittest.TestCase):
         self.assertEqual(first.test_id, "TEST_1")
         self.assertEqual(second.test_id, "TEST_2")
 
+    def test_render_products_sorts_by_numeric_source_id(self):
+        steps = {"setup": [], "action": [], "cleanup": [], "unclassified": []}
+        tenth = convert_tests.TestRecord("10", "A test", "Windows", "", "", "", "", "", steps, "10.html", "10.JSON", "TEST_10")
+        second = convert_tests.TestRecord("2", "Z test", "Windows", "", "", "", "", "", steps, "2.html", "2.JSON", "TEST_2")
+
+        rendered = convert_tests.render_products([tenth, second])["Windows"]
+
+        self.assertLess(rendered.index("**TEST_2**"), rendered.index("**TEST_10**"))
+
     def test_convert_rejects_multiple_products_without_writing(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
